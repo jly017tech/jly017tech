@@ -1,8 +1,8 @@
 
 <h1>Under Construction</h1>
-<h1>Hi, I'm Jimmy!</h1>
 
 <!--
+<h1>Hi, I'm Jimmy!</h1>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
