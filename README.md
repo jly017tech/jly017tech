@@ -5,6 +5,7 @@
 <h1>Hi, I'm Jimmy!</h1>
 <h2>Active Directory User Management Projects:</h2>
 
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -44,7 +45,7 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-
+-->
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
