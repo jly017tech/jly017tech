@@ -2,8 +2,12 @@
 <h1>Under Construction</h1>
 
 
-<h1>Hi, I'm Jimmy!</h1>
-<h2>Active Directory User Management Projects:</h2>
+<h1>Hello, there. My name is Jimmy!</h1>
+<h2>Active Directory User Management Projects: (Under Construction)</h2>
+
+<h1>osTicket</h1>
+- <b>osTicket Installation</br>
+- <b>osTicket Audit Log Plugin</br>
 
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
