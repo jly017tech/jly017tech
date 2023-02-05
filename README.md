@@ -1,7 +1,4 @@
 
-<h1>Under Construction</h1>
-
-
 <h1>Hello, there. My name is Jimmy!</h1>
 <h2>Active Directory User Management Projects: (Under Construction)</h2>
 
