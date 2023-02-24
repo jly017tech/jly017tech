@@ -1,5 +1,5 @@
 
-<h2>Active Directory User Management Projects: (Under Construction)</h2>
+<h2>Active Directory User Managements:</h2>
 
 <h2>MS Office 365</h2>
 
