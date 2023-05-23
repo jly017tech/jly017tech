@@ -1,7 +1,8 @@
 
-<h2>Active Directory User Managements:</h2>
+<h2>IT 2600-001 |FALL 2021<h2>
+ 
+<h2>
 
-<h2>MS Office 365</h2>
 
 <!--
 <h1>osTicket</h1>
