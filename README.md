@@ -2,7 +2,7 @@
 <h2>IT HomeLab<h2>
 
 - <b>Ticketing system (Peppermint)</b>
-  - [Praciting DS & Algos in Python](https://github.com/jily2-tech/host-helpdesk-ticketsystems)
+  - [Installing a ticketing system with Linode](https://github.com/jily2-tech/host-helpdesk-ticketsystems)
 
 
 
