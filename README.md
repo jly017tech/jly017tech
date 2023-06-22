@@ -1,8 +1,7 @@
 
-<h2>Ticketing System<h2>
- <p>I installed Peppermint on the Linode as my cloud app and created few tickets.
- </p>
-<h2>
+<h2>IT HomeLab<h2>
+ -<b>Ticketing system</b>
+  -[Hosting a ticketing system with Linode](https://github.com/jily2-tech/host-helpdesk-ticketsystems)
 
 
 <!--
