@@ -1,4 +1,4 @@
-<h3>Hi, my name is Jimmy</h3>
+<h1>Hi, my name is Jimmy</h1>
 
 <h2>IT HomeLab<h2>
 
