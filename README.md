@@ -1,7 +1,6 @@
 <h1>Hi, my name is Jimmy</h1>
 
 <h2>Programming Projects</h2>
-<hr>
 <br>
 
 <h2>IT HomeLab<h2>
