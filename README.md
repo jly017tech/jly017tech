@@ -14,4 +14,4 @@
   - [Installing a ticketing system with Linode](https://github.com/jily2-tech/host-helpdesk-ticketsystems)
 
 
-<h1>Utah Valley University (Canvas.instructure.com)</h1>
+<h2>Utah Valley University (Canvas.instructure.com)</h2>
