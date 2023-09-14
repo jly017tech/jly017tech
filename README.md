@@ -4,9 +4,9 @@
 <h2>IT HomeLab<h2>
 
 - <b>Ticketing System Peppermint</b>
-  - [Installing a ticketing system with Linode](https://github.com/LoneGhostWolf/host-helpdesk-ticketsystems)
+  - [Installing a ticketing system On Linode Cloud Server](https://github.com/LoneGhostWolf/host-helpdesk-ticketsystems)
 - <b>Microsoft Office 365 - Administration Cneter</b>
-  - [Image Analysis Middleware](https://github.com/LoneGhostWolf/MS365-Outlook)
+  - [Exchange/Outlook Set up](https://github.com/LoneGhostWolf/MS365-Outlook)
 
 <!--
 - <b>PowerShell</b>
