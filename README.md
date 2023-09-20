@@ -5,6 +5,11 @@
 - <b>Microsoft Office 365 - Administration Cneter</b>
   - [Exchange/Outlook Set up](https://github.com/LoneGhostWolf/MS365-Outlook)
 
+
+<h2>IT UVU Projects: </h2>
+<img src="https://i.imgur.com/T73L7LM.png" height="65%" width="65%" alt="blank"/>
+
+
 <!--
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
