@@ -6,8 +6,11 @@
   - [Exchange/Outlook Set up](https://github.com/LoneGhostWolf/MS365-Outlook)
 
 
-<h2>IT UVU Projects: Installing a ticketing system On Linode Cloud Server](https://github.com/LoneGhostWolf/host-helpdesk-ticketsystems)
-</h2> 
+<h2>IT UVU Projects</h2>
+
+  - [Link](https://github.com/LoneGhostWolf/ITUVUProjects)
+
+
 <img src="https://i.imgur.com/T73L7LM.png" height="65%" width="65%" alt="blank"/>
 
 
