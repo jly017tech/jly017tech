@@ -1,6 +1,3 @@
-<h1>Hi, my name is Jimmy</h1>
-
-
 <h2>IT HomeLab<h2>
 
 - <b>Ticketing System Peppermint</b>
