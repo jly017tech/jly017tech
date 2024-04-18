@@ -1,4 +1,4 @@
-<h1>2024 MyProjects</h1>
+<h1>2024 Projects</h1>
 <br>
 
 <h2>IT HomeLab (2022 - 2023)<h2>
