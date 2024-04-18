@@ -8,6 +8,7 @@
 - <b>Microsoft Office 365 - Administration Center</b>
   - [Exchange/Outlook Set up](https://github.com/LoneGhostWolf/MS365-Outlook)
 
+<br>
 
 <h2>Utah Valley University: IT Courses</h2>
 
