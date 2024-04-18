@@ -1,7 +1,7 @@
 <h1>2024 MyProjects</h1>
 <br>
 
-<h2>IT HomeLab 2022 - 2023<h2>
+<h2>IT HomeLab (2022 - 2023)<h2>
 
 - <b>Ticketing System Peppermint</b>
   - [Installing a ticketing system On Linode Cloud Server](https://github.com/LoneGhostWolf/host-helpdesk-ticketsystems)
