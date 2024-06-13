@@ -9,7 +9,7 @@ writing and creating few projects here on my Github profile page.
 <h1>2024 Projects</h1>
 <br>
 
-<h2>IT HomeLab (2022 - 2023)<h2>
+<h2>UVU Cengage Virtual Lab/IT HomeLab (2021 - Present)<h2>
 
 - <b>Ticketing System Peppermint</b>
   - [Installing a ticketing system On Linode Cloud Server](https://github.com/LoneGhostWolf/host-helpdesk-ticketsystems)
@@ -19,8 +19,9 @@ writing and creating few projects here on my Github profile page.
 -->
 <br>
 
+<!--
 <h2>Utah Valley University: IT Courses</h2>
-
+-->
 <!--
 <h2>IT UVU Projects</h2>
 
