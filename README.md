@@ -7,9 +7,6 @@ writing and creating few projects here on my Github profile page.
 
 -->
 
-<h1>UVU Cengage Virtual Lab/IT HomeLab (2021 - Present)<h1>
-<P>I graduated with an associate degree in Information Systems and Technology at Utah Valley University. Today, I'm still searching full time job while working as a PC Technician at 
-  Lone Star College. I'm interesting in Helpdesk Technician or related IT role to get in in the IT industry.</P>
 
 - <b>Ticketing System Peppermint</b>
   - [Installing a ticketing system On Linode Cloud Server](https://github.com/LoneGhostWolf/host-helpdesk-ticketsystems)
