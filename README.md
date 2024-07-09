@@ -1,11 +1,4 @@
-<!--
-Name: Jimmy Ly
-Was a student at University of Utah
-* Dropped out and transferred to Utah Valley University and graduate with an associate degree in IT
 
-writing and creating few projects here on my Github profile page.
-
--->
 
 
 <h2>IT Homelab</h2>
