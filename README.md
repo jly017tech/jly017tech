@@ -1,5 +1,4 @@
 <h2>IT Homelabs</h2>
-<br>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -15,6 +14,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 <h2>IT Homelab</h2>
+
 - <b>Ticketing System Peppermint</b>
   - [Installing a ticketing system On Linode Cloud Server](https://github.com/LoneGhostWolf/host-helpdesk-ticketsystems)
 
