@@ -1,7 +1,7 @@
 <h2>IT Homelab</h2>
 
 - <b>Ticketing System Peppermint</b>
-  - [Installing a ticketing system On Linode Cloud Server](https://github.com/LoneGhostWolf/host-helpdesk-ticketsystems)
+  - [Installing a ticketing system On Linode Cloud Server](https://github.com/JustJLineIT/host-helpdesk-ticketsystems)
 
 <!--
 - <b>Microsoft Office 365 - Administration Center</b>
@@ -12,7 +12,7 @@
 <h2>Personal Projects</h2>
 
 - <b>United States Ext4nsion</b>
-  - [Exchange/Outlook Set up](https://github.com/LoneGhostWolf/MS365-Outlook)
+  - [United States Map](https://github.com/LoneGhostWolf/MS365-Outlook)
 
 <br>
 
