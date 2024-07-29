@@ -3,11 +3,6 @@
 - <b>Ticketing System with Peppermint</b>
   - [Installing a ticketing system On Linode Cloud Server](https://github.com/JustJLineIT/host-helpdesk-ticketsystems)
 
-<!--
-- <b>Microsoft Office 365 - Administration Center</b>
-  - [Exchange/Outlook Set up](https://github.com/LoneGhostWolf/MS365-Outlook)
--->
-
 
 <h2>Personal Projects</h2>
 
