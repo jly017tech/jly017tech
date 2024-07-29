@@ -1,6 +1,6 @@
 <h2>IT Homelab</h2>
 
-- <b>Ticketing System Peppermint</b>
+- <b>Ticketing System with Peppermint</b>
   - [Installing a ticketing system On Linode Cloud Server](https://github.com/JustJLineIT/host-helpdesk-ticketsystems)
 
 <!--
