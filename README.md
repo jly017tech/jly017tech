@@ -3,11 +3,6 @@
 **`Self Developer`**
 
 
-### 📊 Stats
-
-![Ly's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustJLineIT&show_icons=true&theme=react)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 
 I'm a self developer with 7 years coding experience in Java, Python, Javascript, and SQL. 
@@ -18,16 +13,17 @@ I currently hold two MTA certificates in Software Fundamnetal and Database Funda
       <a href="https://api.github.com/users/JustJLineIT/repos">
          <img alt="My Repositories" title="Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a> 
       <a href="https://api.github.com/users/JustJLineIT/repos">
-     
+        <a href="https://www.youtube.com/channel/UCYQgZ1DH4WPl6iAFJdAQ63Q">
+         <img alt="Youtube" title="Youtube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+
+---
+
 
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-
-
-<br/>
-
+<br />
 
 
 
@@ -44,6 +40,17 @@ I currently hold two MTA certificates in Software Fundamnetal and Database Funda
   - [United States Map](https://github.com/LoneGhostWolf/MS365-Outlook)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustJLineIT&repo=StarLight-Saigon&theme=tokyonight)](https://github.com/JustJLineIT/StarLight-Saigon)
+
+
+
+
+### 📊 Stats
+
+![Ly's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustJLineIT&show_icons=true&theme=react)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+
 
 
 <!-- All below is just a reference-->
