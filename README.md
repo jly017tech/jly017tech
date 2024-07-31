@@ -1,3 +1,9 @@
+
+**`Self Developer`**
+I'm a self developer with 7 years coding experience in Java, Python, Javascript, and SQL. 
+I currently hold two MTA certificates 
+
+
 <h2>IT Homelab</h2>
 
 - <b>Ticketing System with Peppermint</b>
