@@ -14,7 +14,7 @@ I currently hold two MTA certificates in Software Fundamnetal and Database Funda
          <img alt="My Repositories" title="Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a> 
       <a href="https://api.github.com/users/JustJLineIT/repos">
         <a href="https://www.youtube.com/channel/UCYQgZ1DH4WPl6iAFJdAQ63Q">
-         <img alt="Youtube" title="Youtube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="Youtube" title="Youtube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCYQgZ1DH4WPl6iAFJdAQ63Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 
 ---
 
