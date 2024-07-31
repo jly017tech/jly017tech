@@ -3,6 +3,13 @@
 **`Self Developer`**
 
 
+### 📊 Stats
+
+![Ly's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustJLineIT&show_icons=true&theme=react)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+
 I'm a self developer with 7 years coding experience in Java, Python, Javascript, and SQL. 
 I currently hold two MTA certificates in Software Fundamnetal and Database Fundamental. 
 
@@ -19,14 +26,10 @@ I currently hold two MTA certificates in Software Fundamnetal and Database Funda
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 
 
-<br />
+<br/>
 
 
-### 📊 Stats
 
-![Ly's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustJLineIT&show_icons=true&theme=react)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 
 <h2>IT Homelab</h2>
