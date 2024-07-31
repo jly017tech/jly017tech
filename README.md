@@ -4,7 +4,7 @@
 
 
 I'm a self developer with 7 years coding experience in Java, Python, Javascript, and SQL. 
-I currently hold two MTA certificates 
+I currently hold two MTA certificates in Software Fundamnetal and Database Fundamental. 
 
 
 <h2>IT Homelab</h2>
