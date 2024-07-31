@@ -16,6 +16,8 @@ I currently hold two MTA certificates in Software Fundamnetal and Database Funda
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+
 
 <br />
 
@@ -38,14 +40,7 @@ I currently hold two MTA certificates in Software Fundamnetal and Database Funda
 - <b>United States Ext4nsion</b>
   - [United States Map](https://github.com/LoneGhostWolf/MS365-Outlook)
 
-- <b>StarLight Saigon</b>
-  - [Starlight Saigon Restaurant](https://github.com/JustJLineIT/StarlightSaigon)
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustJLineIT&repo=StarLight-Saigon)](https://github.com/JustJLineIT/StarLight-Saigon)
-
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustJLineIT&repo=StarLight-Saigon&theme=tokyonight)](https://github.com/JustJLineIT/StarLight-Saigon)
 
 
 <!-- All below is just a reference-->
