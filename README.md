@@ -1,5 +1,6 @@
 
 **`Self Developer`**
+<br>
 I'm a self developer with 7 years coding experience in Java, Python, Javascript, and SQL. 
 I currently hold two MTA certificates 
 
