@@ -41,6 +41,13 @@ I currently hold two MTA certificates in Software Fundamnetal and Database Funda
 - <b>StarLight Saigon</b>
   - [Starlight Saigon Restaurant](https://github.com/JustJLineIT/StarlightSaigon)
 
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustJLineIT&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!-- All below is just a reference-->
 
 
