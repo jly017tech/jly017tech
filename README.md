@@ -43,7 +43,7 @@ I currently hold two MTA certificates in Software Fundamnetal and Database Funda
 <h2>Personal Projects</h2>
 
 - <b>United States Ext4nsion</b>
-  - [United States Map](https://github.com/LoneGhostWolf/MS365-Outlook)
+  - [United States Map](https://github.com/JustJLineIT/UnitedStatesExt4nsion)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustJLineIT&repo=StarLight-Saigon&theme=tokyonight)](https://github.com/JustJLineIT/StarLight-Saigon)
 
