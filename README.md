@@ -20,6 +20,11 @@ I currently hold two MTA certificates in Software Fundamnetal and Database Funda
 <br />
 
 
+### 📊 Stats
+
+![Ly's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustJLineIT&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 
 <h2>IT Homelab</h2>
