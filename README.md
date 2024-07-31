@@ -15,10 +15,6 @@ I currently hold two MTA certificates in Software Fundamnetal and Database Funda
       <a href="https://api.github.com/users/JustJLineIT/repos">
      <a href="https://www.youtube.com/@JustJLineIT-i4q">
          <img alt="Youtube" title="Youtube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCYQgZ1DH4WPl6iAFJdAQ63Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
           
 
 
