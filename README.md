@@ -35,6 +35,8 @@ I currently hold two MTA certificates in Software Fundamnetal and Database Funda
 - <b>Ticketing System with Peppermint</b>
   - [Installing a ticketing system On Linode Cloud Server](https://github.com/JustJLineIT/host-helpdesk-ticketsystems)
 
+- <b>Outlook Troubleshooting Practices</b>
+  - [Outlook: MS Office 365 Administrator](https://github.com/JustJLineIT/MS365-Outlook/tree/main)
 
 <h2>Personal Projects</h2>
 
