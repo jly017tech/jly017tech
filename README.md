@@ -2,11 +2,11 @@
 
 **`Self Developer`**
 
-
+<!--
    <p align="left">
     <a href="https://www.youtube.com/@JustJLineIT-i4q">
          <img alt="Youtube" title="Youtube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCYQgZ1DH4WPl6iAFJdAQ63Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-          
+          -->
 
 
 ---
