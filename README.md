@@ -2,6 +2,16 @@
 
 **`Self Developer`**
 
+
+<h2>Links:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/jly017tech
+
+
+
+
 <!--
    <p align="left">
     <a href="https://www.youtube.com/@JustJLineIT-i4q">
