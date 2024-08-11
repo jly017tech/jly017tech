@@ -38,7 +38,11 @@
   - [Installing a ticketing system On Linode Cloud Server](https://github.com/JustJLineIT/host-helpdesk-ticketsystems)
 
 - <b>Outlook Troubleshooting Practices</b>
-  - [Outlook: MS Office 365 Administrator](https://github.com/JustJLineIT/MS365-Outlook/tree/main)
+  - [Outlook: MS Office 365 Administrator Center](https://github.com/JustJLineIT/MS365-Outlook/tree/main)
+
+- <b>Add a computer join in the organization domain</b>
+  - [Active Directory: Adding a computer](https://github.com/JustJLineIT/MS365-Outlook/tree/main)
+
 
 <h2>Personal Projects</h2>
 
