@@ -40,8 +40,8 @@
 - <b>Outlook Troubleshooting Practices</b>
   - [Outlook: MS Office 365 Administrator Center](https://github.com/JustJLineIT/MS365-Outlook/tree/main)
 
-- <b>Add a computer join in the organization domain</b>
-  - [Active Directory: Adding a computer](https://github.com/JustJLineIT/MS365-Outlook/tree/main)
+- <b>Active Directory: Adding a PC to Domain</b>
+  - [AD: Adding a PC](https://github.com/JustJLineIT/MS365-Outlook/tree/main)
 
 
 <h2>Personal Projects</h2>
