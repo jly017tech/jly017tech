@@ -34,7 +34,7 @@
 
 <h2>IT Homelab</h2>
 
-- <b>Ticketing System/b>
+- <b>Ticketing System</b>
   - [Installing Peppermint on Linode Cloud Server](https://github.com/JustJLineIT/host-helpdesk-ticketsystems)
 
 - <b>Outlook Troubleshooting Practices</b>
