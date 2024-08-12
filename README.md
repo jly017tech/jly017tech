@@ -34,8 +34,8 @@
 
 <h2>IT Homelab</h2>
 
-- <b>Ticketing System with Peppermint</b>
-  - [Installing a ticketing system On Linode Cloud Server](https://github.com/JustJLineIT/host-helpdesk-ticketsystems)
+- <b>Ticketing System/b>
+  - [Installing Peppermint on Linode Cloud Server](https://github.com/JustJLineIT/host-helpdesk-ticketsystems)
 
 - <b>Outlook Troubleshooting Practices</b>
   - [Outlook: MS Office 365 Administrator Center](https://github.com/JustJLineIT/MS365-Outlook/tree/main)
