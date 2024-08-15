@@ -41,7 +41,7 @@
   - [Outlook: MS Office 365 Administrator Center](https://github.com/JustJLineIT/MS365-Outlook/tree/main)
 
 - <b>Active Directory: Adding a PC to Domain</b>
-  - [AD: Adding a PC](https://github.com/JustJLineIT/MS365-Outlook/tree/main)
+  - [AD: Adding a PC](https://github.com/JustJLineIT/Joining-Domain)
 
 
 <h2>Personal Projects</h2>
