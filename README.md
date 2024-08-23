@@ -41,7 +41,7 @@
 - <b>Ticketing System</b>
   - [Installing Peppermint on Linode Cloud Server](https://github.com/JustJLineIT/host-helpdesk-ticketsystems)
 
-- <b>Outlook Troubleshooting Practices</b>
+- <b>MS Office 365 Admin Center: Outlook </b>
   - [Outlook: MS Office 365 Administrator Center](https://github.com/JustJLineIT/MS365-Outlook/tree/main)
 
 - <b>Active Directory: Adding a PC to Domain</b>
