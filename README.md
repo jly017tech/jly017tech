@@ -51,7 +51,7 @@
      - [AD: Adding a PC](https://github.com/JustJLineIT/Joining-Domain)
 
 - <b>Microsoft Deployment Toolkit</b>
-  - [MDT](https://github.com/JustJLineIT/MicrosoftDeploymentTool)
+  - [Microsoft Deployment Tooolkit](https://github.com/JustJLineIT/MicrosoftDeploymentTool)
 
 <h2>Personal Projects</h2>
 
