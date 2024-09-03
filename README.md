@@ -1,12 +1,5 @@
 #Jimmy Ly
 
-**`Programmer`**
-
-<h2>Certificates</h2>
-<ul>
-   <li>CompTIA A+ (In progress) </li>
-</ul>
-
 <h2>Links:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
