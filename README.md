@@ -2,7 +2,7 @@
 
 <h2>Links:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jly017tech/
 
@@ -40,8 +40,6 @@
 - <b>Windows Server 2016/2022 with Oracle VM</b>
   - [Joining Domain](https://github.com/JustJLineIT/Joining-Domain)
  
-- <b>Running powerscripts automation</b>
-     - [AD: Adding a PC](https://github.com/JustJLineIT/Joining-Domain)
 
 - <b>Microsoft Deployment Toolkit</b>
   - [Microsoft Deployment Tooolkit](https://github.com/JustJLineIT/MicrosoftDeploymentTool)
@@ -69,6 +67,8 @@
 
 
 <!--
+- <b>Running powerscripts automation</b>
+     - [AD: Adding a PC](https://github.com/JustJLineIT/Joining-Domain)
 
 
 
