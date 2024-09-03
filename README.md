@@ -37,7 +37,7 @@
 - <b>MS Office 365 Admin Center: Outlook </b>
   - [Outlook: MS Office 365 Administrator Center](https://github.com/JustJLineIT/MS365-Outlook/tree/main)
 
-- <b>Windows Server 2016/2022 with Oracle VM</b>
+- <b>Windows Server 2022 with Oracle VM</b>
   - [Joining Domain](https://github.com/JustJLineIT/Joining-Domain)
  
 
