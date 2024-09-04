@@ -19,7 +19,7 @@
 ---
 
 <!--
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools 🧰
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
@@ -30,6 +30,9 @@
 
 
 <h2>IT Homelab</h2>
+
+- <br>Windows Server</b>
+   -.[Settingup on Virutal Machine with Windows Server 2022]()
 
 - <b>Ticketing System</b>
   - [Installing Peppermint on Linode Cloud Server](https://github.com/JustJLineIT/host-helpdesk-ticketsystems)
