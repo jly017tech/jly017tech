@@ -40,7 +40,7 @@
 - <b>MS Office 365 Admin Center: Outlook </b>
   - [Outlook: MS Office 365 Administrator Center](https://github.com/JustJLineIT/MS365-Outlook/tree/main)
 
-- <b>Windows Server 2022 with Oracle VM</b>
+- <b>DHCP Server and add a Client VM to the Domain, HuskyTechSupport.local</b>
   - [Joining Domain](https://github.com/JustJLineIT/Joining-Domain)
  
 
