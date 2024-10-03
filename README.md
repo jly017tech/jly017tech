@@ -40,7 +40,7 @@
 - <b>MS Office 365 Admin Center: Outlook </b>
   - [Outlook: MS Office 365 Administrator Center](https://github.com/JL-DReamr017/MS365-Outlook/tree/main)
 
-- <b>DHCP Server and add a Client VM to the Domain, HuskyTechSupport.local</b>
+- <b>DHCP Server and add a Client VM to the Domain, HuskyTechSupJustJLineITport.local</b>
   - [Joining Domain](https://github.com/JL-DReamr017//Joining-Domain)
  
 
@@ -49,7 +49,7 @@
 
 <h2>Website Projects</h2>
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustJLineIT&repo=UnitedStatesExt4nsion&theme=tokyonight)](https://github.com/JL-DReamr017/UnitedStatesExt4nsion)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustJLineIT&repo=StarLight-Saigon&theme=tokyonight)](https://github.com/JL-DReamr017//StarLight-Saigon)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JL-DReamr017&repo=UnitedStatesExt4nsion&theme=tokyonight)](https://github.com/JL-DReamr017/UnitedStatesExt4nsion)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JL-DReamr017&repo=StarLight-Saigon&theme=tokyonight)](https://github.com/JL-DReamr017//StarLight-Saigon)
 
 
 
