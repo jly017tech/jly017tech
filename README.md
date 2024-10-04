@@ -6,6 +6,8 @@
 
 [linkedin]: https://www.linkedin.com/in/jly017tech/
 
+Certified in:
+CompTIA A+
 
 
 
@@ -46,6 +48,9 @@
 
 - <b>Microsoft Deployment Toolkit</b>
   - [Microsoft Deployment Tooolkit](https://github.com/JL-DReamr017/MicrosoftDeploymentTool)
+
+- <b>Automation: Counting all users in the sheet and import to Google Sheet</b>
+  - [Automation](https://github.com/JL-DReamr017/MicrosoftDeploymentTool)
 
 <h2>Website Projects</h2>
 
