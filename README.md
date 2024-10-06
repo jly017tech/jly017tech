@@ -6,8 +6,6 @@
 
 [linkedin]: https://www.linkedin.com/in/jly017tech/
 
-Certified in:
-CompTIA A+
 
 
 
