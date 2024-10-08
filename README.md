@@ -40,13 +40,6 @@
 - <b>MS Office 365 Admin Center: Outlook </b>
   - [Outlook: MS Office 365 Administrator Center](https://github.com/JL-DReamr017/MS365-Outlook/tree/main)
 
-- <b>DHCP Server and add a Client VM to the Domain, HuskyTechSupJustJLineITport.local</b>
-  - [Joining Domain](https://github.com/JL-DReamr017//Joining-Domain)
- 
-
 - <b>Microsoft Deployment Toolkit</b>
   - [Microsoft Deployment Tooolkit](https://github.com/JL-DReamr017/MicrosoftDeploymentTool)
-
-- <b>Automation: Counting all users in the sheet and import to Google Sheet</b>
-  - [Automation](https://github.com/JL-DReamr017/MicrosoftDeploymentTool)
 
