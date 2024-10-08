@@ -32,7 +32,7 @@
 <h2>IT Homelab</h2>
 
 - <b>Windows Server 2022</b>
-   - [Settingup on Virutal Machine with Windows Server 2022]()
+   - [Settingup on Virutal Machine with Windows Server 2022](https://github.com/JL-Dreamr017/WindowsServer)
 
 - <b>Ticketing System</b>
   - [Installing Peppermint on Linode Cloud Server](https://github.com/JL-DReamr017/host-helpdesk-ticketsystems)
