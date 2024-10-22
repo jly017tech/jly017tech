@@ -17,17 +17,6 @@
 
 ---
 
-<!--
-### 🧰 Languages and Tools 🧰
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-<br />
--->
-
-
-
-
 <h2>IT Homelab</h2>
 
 - <b>Windows Server 2022</b>
@@ -42,3 +31,15 @@
 - <b>Microsoft Deployment Toolkit</b>
   - [Microsoft Deployment Tooolkit](https://github.com/JL-DReamr017/MicrosoftDeploymentTool)
 
+
+
+
+
+
+<!--
+### 🧰 Languages and Tools 🧰
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+<br />
+-->
