@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/d12b92fc-da2f-4b10-8b72-1cfd9725b480)
 <h2>Links:</h2>
 
 [<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -27,6 +27,10 @@
 
 - <b>MS Office 365 Admin Center: Outlook </b>
   - [Outlook: MS Office 365 Administrator Center](https://github.com/JL-DReamr017/MS365-Outlook/tree/main)
+
+- <b>Setup NFTS Permission with Server Manager: File Storage</b>
+  - [Setup NTFTS Permission in HR Directory folder](https://github.com/JL-Dreamr017/SetUpHomeFolderW-NTFSPermission/blob/main/README.md)
+
 
 - <b>Microsoft Deployment Toolkit</b>
   - [Microsoft Deployment Tooolkit](https://github.com/JL-DReamr017/MicrosoftDeploymentTool)
