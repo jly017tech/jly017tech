@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/d12b92fc-da2f-4b10-8b72-1cfd9725b480)
 <h2>Links:</h2>
 
 [<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
