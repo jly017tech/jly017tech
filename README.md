@@ -1,4 +1,3 @@
-#Jimmy Ly
 
 <h2>Links:</h2>
 
