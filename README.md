@@ -21,15 +21,13 @@
 - <b>Windows Server 2022</b>
    - [Setting up on Windows Server 2022](https://github.com/JL-Dreamr017/WindowsServer)
 
+    - [Setting up NFTS Permission with Server Manager: File Storage](https://github.com/JL-Dreamr017/SetUpHomeFolderW-NTFSPermission/blob/main/README.md)
+ 
 - <b>Ticketing System</b>
   - [Installing Peppermint on Linode Cloud Server](https://github.com/JL-DReamr017/host-helpdesk-ticketsystems)
 
 - <b>MS Office 365 Admin Center: Outlook </b>
   - [Outlook: MS Office 365 Administrator Center](https://github.com/JL-DReamr017/MS365-Outlook/tree/main)
-
-- <b>Setup NFTS Permission with Server Manager: File Storage</b>
-  - [Setup NTFTS Permission in HR Directory folder](https://github.com/JL-Dreamr017/SetUpHomeFolderW-NTFSPermission/blob/main/README.md)
-
 
 - <b>Microsoft Deployment Toolkit</b>
   - [Microsoft Deployment Tooolkit](https://github.com/JL-DReamr017/MicrosoftDeploymentTool)
