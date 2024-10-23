@@ -22,6 +22,10 @@
    - [Setting up on Windows Server 2022](https://github.com/JL-Dreamr017/WindowsServer)
 
     - [Setting up NFTS Permission with Server Manager: File Storage](https://github.com/JL-Dreamr017/SetUpHomeFolderW-NTFSPermission/blob/main/README.md)
+    
+    - [Mapped a drive](https://github.com/JL-Dreamr017/MappedDrive/blob/main/README.md)
+
+
  
 - <b>Ticketing System</b>
   - [Installing Peppermint on Linode Cloud Server](https://github.com/JL-DReamr017/host-helpdesk-ticketsystems)
