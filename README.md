@@ -24,6 +24,8 @@
     - [Setting up NFTS Permission with Server Manager: File Storage](https://github.com/JL-Dreamr017/SetUpHomeFolderW-NTFSPermission/blob/main/README.md)
     
     - [Mapped a drive](https://github.com/JL-Dreamr017/MappedDrive/blob/main/README.md)
+ 
+   - [Remote Desktop](https://github.com/JL-Dreamr017/RemoteDesktop/blob/main/README.md)
 
 
  
