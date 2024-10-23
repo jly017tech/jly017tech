@@ -1,4 +1,4 @@
-<h2>Links:</h2>
+<h1>Links:</h1>
 
 [<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -16,7 +16,7 @@
 
 ---
 
-<h2>IT Homelab</h2>
+<h1>IT Homelab</h1>
 
 - <b>Windows Server 2022</b>
    - [Setting up on Windows Server 2022](https://github.com/JL-Dreamr017/WindowsServer)
@@ -27,7 +27,8 @@
 
 
  
-- <b>Ticketing System</b>
+  <h2>Ticketing System</h2>
+  
   - [Installing Peppermint on Linode Cloud Server](https://github.com/JL-DReamr017/host-helpdesk-ticketsystems)
 
 - <b>MS Office 365 Admin Center: Outlook </b>
