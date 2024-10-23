@@ -23,9 +23,11 @@
 
     - [Setting up NFTS Permission with Server Manager: File Storage](https://github.com/JL-Dreamr017/SetUpHomeFolderW-NTFSPermission/blob/main/README.md)
     
-    - [Mapped a drive](https://github.com/JL-Dreamr017/MappedDrive/blob/main/README.md)
+    - [Mapped a drive (C:\Share\Personal) ](https://github.com/JL-Dreamr017/MappedDrive/blob/main/README.md)
  
    - [Remote Desktop](https://github.com/JL-Dreamr017/RemoteDesktop/blob/main/README.md)
+    - [PBQ: Deploy & Inventory](https://github.com/JL-Dreamr017/PDQDeploy-Inventory/edit/main/README.md/blob/main/README.md)
+
 
 
  
