@@ -27,7 +27,7 @@
 
 
  
-  - <br>Ticketing System</br>
+- <b>Ticketing System</b>
   
   - [Installing Peppermint on Linode Cloud Server](https://github.com/JL-DReamr017/host-helpdesk-ticketsystems)
 
