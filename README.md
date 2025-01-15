@@ -1,4 +1,3 @@
-<h1>2025 Projects </h1>
 
 <h1>Links:</h1>
 
@@ -17,6 +16,10 @@
 
 
 ---
+
+<h1>2025 Projects </h1>
+
+
 
 <h1>IT Homelab</h1>
 
