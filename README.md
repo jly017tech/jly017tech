@@ -1,3 +1,5 @@
+<h1>2025 Projects </h1>
+
 <h1>Links:</h1>
 
 [<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,10 +42,6 @@
 
 - <b>Microsoft Deployment Toolkit</b>
   - [Microsoft Deployment Tooolkit](https://github.com/JL-DReamr017/MicrosoftDeploymentTool)
-
-
-<h1>IT Cybersecurity Lab</h1>
-
 
 
 <!--
