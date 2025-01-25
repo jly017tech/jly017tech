@@ -20,7 +20,7 @@
 <h1>2025 Coding Projects </h1>
 
 - <b>Star Steller Bank</b>
-   - [Star Steller Bank](https://github.com/JL-Dreamr017/WindowsServer)
+   - [Star Steller Bank](https://github.com/jly017tech/StellarStarBank)
 
 
 <h1>IT Homelab</h1>
