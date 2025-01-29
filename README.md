@@ -40,7 +40,7 @@
  
 - <b>Ticketing System</b>
   
-  - [Installing Peppermint on Linode Cloud Server](https://github.com/JL-DReamr017/host-helpdesk-ticketsystems)
+  - [Installing Peppermint on Linode Cloud Server](https://github.com/jly017tech/TicketingSystem_Peppermint)
 
 - <b>MS Office 365 Admin Center: Outlook </b>
   - [Outlook: MS Office 365 Administrator Center](https://github.com/JL-DReamr017/MS365-Outlook/tree/main)
