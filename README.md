@@ -19,8 +19,11 @@
 
 <h1>2025 Coding Projects </h1>
 
-- <b>Star Steller Bank</b>
-   - [Star Steller Bank](https://github.com/jly017tech/StellarStarBank)
+- <b>Stellar Wolf Bank</b>
+   - [Calculates the user's earning and save in the budget plan](https://github.com/jly017tech/StellarStarBank)
+
+- <b>Email Splicer</b>
+   - [Sta](https://github.com/jly017tech/StellarStarBank)
 
 
 <h1>IT Homelab</h1>
@@ -47,6 +50,9 @@
 
 - <b>Microsoft Deployment Toolkit</b>
   - [Microsoft Deployment Tooolkit](https://github.com/JL-DReamr017/MicrosoftDeploymentTool)
+
+
+
 
 
 <!--
