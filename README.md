@@ -29,6 +29,10 @@
 <h1>IT Homelab</h1>
 
 - <b>Windows Server 2022</b>
+
+    - [Setting up Active Directory on Microsoft AD: Azure](https://github.com/jly017tech/ActiveDirectory_Configuration)
+   
+   
    - [Setting up on Windows Server 2022](https://github.com/JL-Dreamr017/WindowsServer)
 
     - [Setting up NFTS Permission with Server Manager: File Storage](https://github.com/JL-Dreamr017/SetUpHomeFolderW-NTFSPermission/blob/main/README.md)
@@ -37,6 +41,8 @@
  
    - [Remote Desktop](https://github.com/JL-Dreamr017/RemoteDesktop/blob/main/README.md)
     - [PBQ: Deploy & Inventory](https://github.com/JL-Dreamr017/PDQDeploy-Inventory/edit/main/README.md/blob/main/README.md)
+
+
 
 
  
