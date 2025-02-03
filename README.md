@@ -20,7 +20,7 @@
 <h1>2025 Coding Projects </h1>
 
 - <b>Stellar Wolf Bank</b>
-   - [Calculates the user's earning and save in the budget plan](https://github.com/jly017tech/StellarStarBank)
+   - [Calculates the user's gross monthly earning](https://github.com/jly017tech/StellarStarBank)
 
 - <b>Email Splicer</b>
    - [Sta](https://github.com/jly017tech/StellarStarBank)
