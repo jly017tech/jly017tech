@@ -59,6 +59,8 @@
 
 <h2>Networking lab</h2>
 
+   - [DHCP lab with CISCO packet tracer](https://github.com/JL-Dreamr017/RemoteDesktop/blob/main/README.md)
+
 
 <!--
 ### 🧰 Languages and Tools 🧰
