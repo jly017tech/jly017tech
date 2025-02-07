@@ -23,7 +23,7 @@
    - [Calculates the user's gross monthly earning](https://github.com/jly017tech/StellarStarBank)
 
 - <b>Email Splicer</b>
-   - [Sta](https://github.com/jly017tech/StellarStarBank)
+   - [Reads and looks for name, email, and domain in the text file and ](https://github.com/jly017tech/StellarStarBank)
 
 
 <h1>IT Homelab</h1>
