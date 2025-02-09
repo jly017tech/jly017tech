@@ -30,9 +30,6 @@
 
 - <b>Windows Server 2022</b>
 
-    - [Setting up Active Directory on Microsoft AD: Azure](https://github.com/jly017tech/ActiveDirectory_Configuration)
-   
-   
    - [Setting up on Windows Server 2022](https://github.com/JL-Dreamr017/WindowsServer)
 
     - [Setting up NFTS Permission with Server Manager: File Storage](https://github.com/JL-Dreamr017/SetUpHomeFolderW-NTFSPermission/blob/main/README.md)
