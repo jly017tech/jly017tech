@@ -1,5 +1,7 @@
 <h1>🐺 Hi, my name is Jimmy. 🖥️</h1>
 
+<p>I'm currently working as a PC Technician at Lone Star College. I have a </p>
+
 <h1>Links:</h1>
 
 [<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
