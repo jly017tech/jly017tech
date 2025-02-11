@@ -2,7 +2,7 @@
 
 <h2>Background</h2>
 <p>Hello, my name is Jimmy. 
-I started programming when I was in my high school that offer computer programming for the first time and my programming language is Java. I did programming some projects during my time at college.
+I started programming when I was in my high school during my junior year and my first programming language I learned was Java. I did programming some projects during my time at college.
 I'm currently looking for a remote Helpdesk Technician while working as a PC Technician at Lone Star College. 
 I still have two old MTA certificates at JATC in West Jordan, Utah. I did went to college called University of Utah for three years pursuing Computer Science.
 When the Covid hit, I changed my major to IT and graduated with an associate degree in Information Systems and Technology. 
