@@ -1,6 +1,12 @@
 <h1>🐺 Hi, my name is Jimmy. 🖥️</h1>
 
-<p>I'm currently working as a PC Technician at Lone Star College. I have a </p>
+<h2>Background</h2>
+<p>Hello, my name is Jimmy. 
+I started programming when I was in my high school that offer computer programming for the first time and my programming language is Java. I did programming some projects during my time at college.
+I'm currently looking for a remote Helpdesk Technician while working as a PC Technician at Lone Star College. 
+I still have two old MTA certificates at JATC in West Jordan, Utah. I did went to college called University of Utah for three years pursuing Computer Science.
+When the Covid hit, I changed my major to IT and graduated with an associate degree in Information Systems and Technology. 
+</p>
 
 <h1>Links:</h1>
 
@@ -17,8 +23,6 @@
          <img alt="Youtube" title="Youtube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCYQgZ1DH4WPl6iAFJdAQ63Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
           -->
 
-
----
 
 <h1>2025 Coding Projects </h1>
 
