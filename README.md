@@ -3,7 +3,7 @@
 <h2>Background</h2>
 <p>Hello, my name is Jimmy. 
 I started programming when I was in my high school during my junior year and my first programming language I learned was Java. I made some programming projects and studied 2 different programming lanaguagesL: Python and C# <br>
-I graduated with an associate degree in Information Systems and Technology at Utah Valley University in 2020
+I graduated with an associate degree in Information Systems and Technology at Utah Valley University in 2020. I'm currently enrolling at Western Governor Univerisity to finish my Bachelor's degree in IT before end of 2025.
 </p>
 
 <h1>Links:</h1>
