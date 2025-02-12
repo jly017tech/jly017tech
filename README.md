@@ -56,7 +56,7 @@ When the Covid hit, I changed my major to IT and graduated with an associate deg
 
 
  
-- <b>Ticketing System with Linode Server</b>
+- <b>Ticketing System with Linode Cloud Server</b>
   
   - [Installing Peppermint](https://github.com/jly017tech/TicketingSystem_Peppermint)
 
