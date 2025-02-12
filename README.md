@@ -37,11 +37,16 @@ When the Covid hit, I changed my major to IT and graduated with an associate deg
 
 - <b>Windows Server 2022</b>
 
-   - [Setting up on Windows Server 2022](https://github.com/JL-Dreamr017/WindowsServer)
+   - [Setting up on Windows Server 2022](https://github.com/jily017tech/WindowsServer)
 
     - [Setting up NFTS Permission with Server Manager: File Storage](https://github.com/JL-Dreamr017/SetUpHomeFolderW-NTFSPermission/blob/main/README.md)
     
     - [Mapped a drive (C:\Share\Personal) ](https://github.com/JL-Dreamr017/MappedDrive/blob/main/README.md)
+ 
+  - [Redirecting the folder in the C: hard drive](https://github.com/jly017tech/ConfigureUsersFolderRedirection)
+  - [Windows 11 VM joined OrionWolfTech.com (Joining Domain) ](https://github.com/jly017tech/Domain-Join/blob/main/README.md)
+
+
  
    - [Remote Desktop](https://github.com/JL-Dreamr017/RemoteDesktop/blob/main/README.md)
     - [PBQ: Deploy & Inventory](https://github.com/jly017tech/PDQDeploy-Inventory/tree/main)
