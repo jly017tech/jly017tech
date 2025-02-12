@@ -47,7 +47,7 @@ When the Covid hit, I changed my major to IT and graduated with an associate deg
  
   - [Redirecting the folder in the C: hard drive](https://github.com/jly017tech/ConfigureUsersFolderRedirection)
 
-  - [Group policy: Security rule](https://github.com/jly017tech/ConfigureUsersFolderRedirection)
+  - [Group policy: Security rule](https://github.com/jly017tech/GroupPolicy)
  
   - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)
   - [PBQ: Deploy & Inventory](https://github.com/jly017tech/PDQDeploy-Inventory/tree/main)
