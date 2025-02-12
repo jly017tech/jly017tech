@@ -67,7 +67,7 @@ When the Covid hit, I changed my major to IT and graduated with an associate deg
   - [Microsoft Deployment Tooolkit](https://github.com/JL-DReamr017/MicrosoftDeploymentTool)
 
 
-<h2>Networking lab</h2>
+<h2>Networking lab with Cloud Service (Linode)</h2>
 
    - [DHCP lab with CISCO packet tracer](https://github.com/JL-Dreamr017/RemoteDesktop/blob/main/README.md)
 
