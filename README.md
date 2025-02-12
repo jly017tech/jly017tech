@@ -4,7 +4,7 @@
 <p>Hello, my name is Jimmy. 
 I started programming when I was in my high school during my junior year and my first programming language I learned was Java. I did programming some projects during my time at college.
 I still have two old MTA certificates at JATC in West Jordan, Utah. I did went to college called University of Utah for two years pursuing Computer Science.
-When the Covid hit, I changed my major to IT and graduated with an associate degree in Information Systems and Technology. Last year, I went back college and I'm emrolling at Western Governor University to finish my Bachelor's degree in IT. I will be graduate before at the end of 2025.
+When the Covid hit, I changed my major to IT and graduated with an associate degree in Information Systems and Technology. I'm enrolling at Western Governor University and hoping to finish my Bachelor's degree in IT. I will be graduate before at the end of 2025.
 
 </p>
 
@@ -47,7 +47,7 @@ When the Covid hit, I changed my major to IT and graduated with an associate deg
  
   - [Redirecting the folder in the C: hard drive](https://github.com/jly017tech/ConfigureUsersFolderRedirection)
 
-  - [Group policy: Security rule(https://github.com/jly017tech/ConfigureUsersFolderRedirection)
+  - [Group policy: Security rule](https://github.com/jly017tech/ConfigureUsersFolderRedirection)
  
   - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)
   - [PBQ: Deploy & Inventory](https://github.com/jly017tech/PDQDeploy-Inventory/tree/main)
