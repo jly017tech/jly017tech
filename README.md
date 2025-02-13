@@ -65,7 +65,7 @@ I graduated with an associate degree in Information Systems and Technology at Ut
   - [Microsoft Deployment Tooolkit](https://github.com/JL-DReamr017/MicrosoftDeploymentTool)
 
 
-<h2>Networking lab with Cloud Service (Linode)</h2>
+<h2>Networking lab</h2>
 
    - [DHCP lab with CISCO packet tracer](https://github.com/JL-Dreamr017/RemoteDesktop/blob/main/README.md)
 
