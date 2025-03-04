@@ -2,8 +2,9 @@
 
 <h2>Background</h2>
 <p>Hello, my name is Jimmy. 
-I started programming when I was in my high school during my junior year and my first programming language I learned was Java. I have been practice progrmaming for 7 years while pursuing a Computer Science degree at University of Utah for 3 years 
-(August 2017 - December 2020). During covid outbreak, I changed my major in Information Technology. I graduated with an associate degree in Information Systems and Technology at Utah Valley University.
+I started programming when I was in my high school during my junior year. I have been programming for 8 years with Java, Python, SQL, and 2 years experience with web programming.
+After changing my major Computer Science to Information Technology and graduating with an associate degree in Information Systems and Technology, I'm currently enrolling at Western Governor University and pursuing Bachelor's degree in IT.
+I may not know all the techical issues but I am problem solver and programmer who can learn quickly and solve complex challenges.
 </p>
 
 <h1>Links:</h1>
