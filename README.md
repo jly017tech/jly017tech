@@ -7,9 +7,6 @@ After changing my major Computer Science to Information Technology and graduatin
 I may not know all the techical issues but I am problem solver and programmer who can learn quickly and solve complex challenges.
 </p>
 
-
-<br>
-
 <h1>2025 Coding Projects </h1>
 
 - <b>Stellar Wolf Bank</b>
