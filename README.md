@@ -2,7 +2,7 @@
 
 <h2>Background</h2>
 <p>Hello, my name is Jimmy. 
-I started programming when I was in my high school during my junior year. I have been programming for 8 years with Java, Python, SQL, and 2 years experience with web programming.
+I started programming when I was in my high school during my junior year. I have been programming for 8 years with Java, Python, SQL, and 2 years experience with web programming. I have two MTA certificates back in 2017.
 After changing my major Computer Science to Information Technology and graduating with an associate degree in Information Systems and Technology, I'm currently enrolling at Western Governor University and pursuing Bachelor's degree in IT.
 I may not know all the techical issues but I am problem solver and programmer who can learn quickly and solve complex challenges.
 </p>
