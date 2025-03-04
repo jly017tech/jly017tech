@@ -7,16 +7,8 @@ After changing my major Computer Science to Information Technology and graduatin
 I may not know all the techical issues but I am problem solver and programmer who can learn quickly and solve complex challenges.
 </p>
 
-<h1>Links:</h1>
-
-[<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/jly017tech/
-
-
 
 <br>
-
 
 <h1>2025 Coding Projects </h1>
 
@@ -72,4 +64,11 @@ I may not know all the techical issues but I am problem solver and programmer wh
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 <br />
+
+<h1>Links:</h1>
+
+[<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/jly017tech/
+
 -->
