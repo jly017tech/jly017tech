@@ -1,15 +1,7 @@
 <h1>🐺 Hi, my name is Jimmy. 🖥️</h1>
 
-<h1>2025 Coding Projects </h1>
 
-- <b>Stellar Wolf Bank</b>
-   - [Calculates the user's gross monthly earning](https://github.com/jly017tech/StellarStarBank)
-
-- <b>Email Splicer</b>
-   - [Reads and looks for name, email, and domain in the text file and ](https://github.com/jly017tech/emailSplicer)
-
-
-<h1>IT Homelab</h1>
+<h1>Helpdesk Experience Homelab</h1>
 
 - <b>Windows Server 2022</b>
 
@@ -27,10 +19,6 @@
  
   - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)
   - [PBQ: Deploy & Inventory](https://github.com/jly017tech/PDQDeploy-Inventory/tree/main)
-
-
-
-
  
 - <b>Ticketing System with Linode Cloud Server</b>
   
@@ -41,6 +29,20 @@
 
 - <b>Microsoft Deployment Toolkit</b>
   - [Microsoft Deployment Tooolkit](https://github.com/JL-DReamr017/MicrosoftDeploymentTool)
+
+
+
+<h1>2025 Coding Projects </h1>
+
+- <b>Stellar Wolf Bank</b>
+   - [Calculates the user's gross monthly earning](https://github.com/jly017tech/StellarStarBank)
+
+- <b>Email Splicer</b>
+   - [Reads and looks for name, email, and domain in the text file and ](https://github.com/jly017tech/emailSplicer)
+
+
+
+
 
 
 <h2>Networking lab</h2>
