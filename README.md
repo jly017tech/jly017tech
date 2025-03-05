@@ -1,4 +1,4 @@
-<h1>🐺 Hi, my name is Jimmy. 🖥️</h1>
+<h1>🐺 Hello, my name is Jimmy. 🖥️</h1>
 
 
 <h1>Helpdesk Experience Homelab</h1>
