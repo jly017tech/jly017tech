@@ -1,10 +1,7 @@
 <h1>🐺 Hello, my name is Jimmy. 🖥️</h1>
 
-<h1>Lone Star College: PC Technician</h1>
+<h1>PC Technician and self taught programmer wuith 8 years coding experience.  </h1>
 
-<P>
-  PC Technicia and self taught programmer wuith 8 years coding experience.  
-</P>
 
 ![IMG_4787](https://github.com/user-attachments/assets/41b53276-1489-49d1-a41f-c03a07d782d9)
 
