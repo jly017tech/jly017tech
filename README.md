@@ -8,6 +8,11 @@
 
 <h1>Helpdesk Experience Homelab</h1>
 
+- <b>Azure Homelab</b>
+
+  - [Deploying Cloud virtual machine](https://github.com/jly017tech/WindowsServer)
+
+
 - <b>Windows Server 2022</b>
 
   - [Setting up on Windows Server 2022](https://github.com/jly017tech/WindowsServer)
