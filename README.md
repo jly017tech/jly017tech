@@ -11,6 +11,10 @@
 - <b>Azure Homelab</b>
 
   - [Deploying Cloud virtual machine](https://github.com/jly017tech/WindowsServer)
+  - [Troubleshooting IP Configuration](https://github.com/jly017tech/Troubleshoot-IP-Configuration)
+
+
+  
 
 
 - <b>Windows Server 2022</b>
