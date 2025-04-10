@@ -10,7 +10,7 @@
 
 - <b>Azure Homelab</b>
 
-  - [Deploying Cloud virtual machine](https://github.com/jly017tech/WindowsServer)
+  - [Deploying Cloud virtual machine]([https://github.com/jly017tech/](https://github.com/jly017tech/Azure_DeployVM))
   - [Troubleshooting IP Configuration](https://github.com/jly017tech/Troubleshoot-IP-Configuration)
 
 
