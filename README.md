@@ -1,4 +1,4 @@
-<h1>🐺 Hello, my name is Jimmy. 🖥️</h1>
+<h1> 🖥️ Hello, my name is Jimmy. 🖥️</h1>
 
 
 ![IMG_4787](https://github.com/user-attachments/assets/41b53276-1489-49d1-a41f-c03a07d782d9)
