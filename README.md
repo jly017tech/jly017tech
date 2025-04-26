@@ -6,7 +6,7 @@
 <caption>PXE boot process</caption>
 
 
-<h1>Helpdesk Experience Homelab</h1>
+<h1> Homelab</h1>
 
 - <b>Azure Homelab</b>
 
