@@ -6,6 +6,11 @@
 <caption>PXE boot process</caption>
 
 
+<h2>My job: PC Technician</h2>
+
+<p>As a current part time PC Technician working at Lone Star College, I take care incident tickets, troubleshoot computer hardware and software issues, answer phone calls, reimages laptops and desktops, and check asset tags</p>
+
+
 <h1> Homelab</h1>
 
 - <b>Azure Homelab</b>
