@@ -39,7 +39,7 @@
  
   - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)
   - [PBQ: Deploy & Inventory](https://github.com/jly017tech/PDQDeploy-Inventory/tree/main)
-  - [NIC Team](https://github.com/jly017tech/PDQDeploy-Inventory/tree/main)
+  - [NIC Teaming](https://github.com/jly017tech/PDQDeploy-Inventory/tree/main)
 
  
 - <b>Ticketing System with Linode Cloud Server</b>
