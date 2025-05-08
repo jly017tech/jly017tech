@@ -3,8 +3,6 @@
 
 ![IMG_4787](https://github.com/user-attachments/assets/41b53276-1489-49d1-a41f-c03a07d782d9)
 
-<caption><em>PXE boot process</em></caption>
-
 
 <h2>My job: PC Technician</h2>
 
