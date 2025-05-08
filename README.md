@@ -11,13 +11,16 @@
 
 <h1> Homelab</h1>
 
+- <b>Cisco packet</b>
+  - [Deploying Cloud virtual machine](https://github.com/jly017tech/Azure_DeployVM)
+
+
 - <b>Azure Homelab</b>
 
   - [Deploying Cloud virtual machine](https://github.com/jly017tech/Azure_DeployVM)
   - [Troubleshooting IP Configuration](https://github.com/jly017tech/Troubleshoot-IP-Configuration)
 
 
-  
 
 
 - <b>Windows Server 2022</b>
@@ -36,6 +39,8 @@
  
   - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)
   - [PBQ: Deploy & Inventory](https://github.com/jly017tech/PDQDeploy-Inventory/tree/main)
+  - [NIC Team](https://github.com/jly017tech/PDQDeploy-Inventory/tree/main)
+
  
 - <b>Ticketing System with Linode Cloud Server</b>
   
