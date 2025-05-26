@@ -6,7 +6,7 @@
 
 <h2>My job: PC Technician</h2>
 
-<p>I am currently working as PC Technician. In the past 2 years, I had done reimaging and set up new all-in=one desktop computers. I check SDI loaner devices for the check up intenvtory and keep tracking of iPads and laptops.I love technology and I'm still applying IT jobs /p>
+<p>I am currently working as PC Technician. In the past 2 years, I had done reimaging and set up new all-in=one desktop computers. I check SDI loaner devices for the check up intenvtory and keep tracking of iPads and laptops.I love technology and I'm still applying IT jobs </p>
 
 
 <h1> Homelab</h1>
