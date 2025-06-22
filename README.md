@@ -4,8 +4,7 @@
 ![IMG_4787](https://github.com/user-attachments/assets/41b53276-1489-49d1-a41f-c03a07d782d9)
 
 
-<h1> Homelab</h1>
-
+<h1>IT Homelab: Projects</h1>
 
 - <b>TestOutlab</b>
 
