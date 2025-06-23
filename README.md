@@ -18,8 +18,6 @@
  
 
 
-
-
 - <b>Windows Server 2022</b>
 
   - [Setting up on Windows Server 2022](https://github.com/jly017tech/WindowsServer)
@@ -35,7 +33,9 @@
   - [Group policy: Security rule](https://github.com/jly017tech/GroupPolicy)
  
   - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)
+    
   - [PBQ: Deploy & Inventory](https://github.com/jly017tech/PDQDeploy-Inventory/tree/main)
+    
   - [NIC Teaming](https://github.com/jly017tech/NICTeaming/blob/main/README.md)
 
  
