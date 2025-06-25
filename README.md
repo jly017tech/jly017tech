@@ -41,7 +41,7 @@
  
 - <b>Ticketing System with Linode Cloud Server</b>
   
-  - [Installing Peppermint](https://github.com/jly017tech/TicketingSystem_Peppermint)
+  - [Installing Peppermint with Linode Cloud Server](https://github.com/jly017tech/TicketingSystem_Peppermint)
 
 
 
