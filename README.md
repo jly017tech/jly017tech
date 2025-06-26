@@ -10,7 +10,7 @@
 
   - [Deploying Cloud virtual machine](https://github.com/jly017tech/Azure_DeployVM)
   - [Troubleshooting IP Configuration](https://github.com/jly017tech/Troubleshoot-IP-Configuration)
-  - [DHCP Server Scenario #1](https://github.com/jly017tech/DHCP/blob/main/README.md)
+  - [CISCO Basic Commands](https://github.com/jly017tech/Cisco_BasicCommands/blob/main/README.md)
   - [DHCP Server Scenario #1](https://github.com/jly017tech/DHCP/blob/main/README.md)
   - [DHCP Server Scenario #1](https://github.com/jly017tech/DHCP/blob/main/README.md)
 
