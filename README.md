@@ -1,6 +1,7 @@
  <h1 align="center"><strong>»»—— Hello there, my name is Jimmy and this is my Github profile page——««</strong></h1>
 <p align="center">🖥️ ╔════════════════▣◎▣════════════════╗ 🖥️</</p>
 
+<br>
 
 ![IMG_4787](https://github.com/user-attachments/assets/41b53276-1489-49d1-a41f-c03a07d782d9)
 
