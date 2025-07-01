@@ -1,5 +1,7 @@
  <h1 align="center"><strong>»»—— Hello there, my name is Jimmy———««</strong></h1>
- <h1 align="center"><strong>»»—— And this is my Github profile page———««</strong></h1>
+
+<p>And this is my Github profile page</p>
+
 
 <p align="center">🖥️ ╔════════════════▣◎▣════════════════╗ 🖥️</</p>
 
