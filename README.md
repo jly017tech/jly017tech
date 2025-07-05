@@ -1,4 +1,4 @@
- <h1 align="center"><strong>🖥️ »»—— Hello there, my name is Jimmy———«« 🖥️</strong></h1>
+  <h1 align="center"><strong>🖥️ »»—— Hello there, my name is Jimmy———«« 🖥️</strong></h1>
 
 
 
@@ -39,6 +39,12 @@
 - <b>Ticketing System with Linode Cloud Server</b>
   
   - [Installing Peppermint with Linode Cloud Server](https://github.com/jly017tech/TicketingSystem_Peppermint)
+
+
+- <b>IT Documentation with <strong>Notion</strong></b>
+  - [DHCP Homelab](https://www.notion.so/IT-Documentation-2270315195cf8077b491f209330e2239?source=copy_link)
+
+
 
 <hr>
 
