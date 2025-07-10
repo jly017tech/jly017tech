@@ -52,6 +52,8 @@
 
 <h1>Coding Projects</h1>
 
+- <b>Simple calculator</strong></b>
+  - [Calculator](https://github.com/jly017tech/SimpleCalculator)
 
 
 
