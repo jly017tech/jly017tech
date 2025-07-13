@@ -54,6 +54,9 @@
 
 - <b>Simple calculator</strong></b>
   - [Calculator](https://github.com/jly017tech/SimpleCalculator)
+ 
+- <b>NightByteTech</strong></b>
+  - [Calculator](https://github.com/jly017tech/SimpleCalculator)
 
 
 
