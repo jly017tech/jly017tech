@@ -59,7 +59,7 @@
   - [Calculator](https://github.com/jly017tech/SimpleCalculator)
  
   - <b>My Porfolio</strong></b>
-  - [Portfolio](https://github.com/jly017tech/SimpleCalculator)
+  - [<b>Portfolio</strong></b>](https://github.com/jly017tech/SimpleCalculator)
 
 
 
