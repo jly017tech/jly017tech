@@ -51,6 +51,8 @@
 <hr>
 
 <h1>Coding Projects</h1>
+[<b>My Portfolio</strong></b>](https://github.com/jly017tech/SimpleCalculator)
+<br>
 
 - <b>Simple calculator</strong></b>
   - [Calculator](https://github.com/jly017tech/SimpleCalculator)
@@ -58,8 +60,6 @@
 - <b>NightByteTech</strong></b>
   - [Calculator](https://github.com/jly017tech/SimpleCalculator)
  
-  - <b>My Porfolio</strong></b>
-  - [<b>Portfolio</strong></b>](https://github.com/jly017tech/SimpleCalculator)
 
 
 
