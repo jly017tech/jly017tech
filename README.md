@@ -51,7 +51,9 @@
 <hr>
 
 <h1>Coding Projects</h1>
-[<b>My Portfolio</strong></b>](https://github.com/jly017tech/SimpleCalculator)
+
+[<b>My Portfolio</strong></b>](https://github.com/jly017tech/MyPortfolio)
+
 <br>
 
 - <b>Simple calculator</strong></b>
