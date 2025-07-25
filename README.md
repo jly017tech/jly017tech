@@ -9,7 +9,7 @@
 
 <p>This section is where I made documentations with Notion</p>
 
-  - [Documentation#1: Installing Windows 2022 Server on VmWare](https://github.com/jly017tech/Azure_DeployVM)
+  - [Documentation#1: Installing Windows 2022 Server on VmWare](https://www.notion.so/IT-Documentation-23b0315195cf80909ac4d30eae5c2f82?source=copy_link)
 
 
 
