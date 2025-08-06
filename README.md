@@ -1,5 +1,8 @@
   <h1 align="center"><strong>🖥️ »»—— Hello there, my name is Jimmy———«« 🖥️</strong></h1>
 
+**`Programmer with Certified CompTIA A+ and AWS Cloud CLF-002`**
+
+Getting back to programming again
 
 
 ![IMG_4787](https://github.com/user-attachments/assets/41b53276-1489-49d1-a41f-c03a07d782d9)
