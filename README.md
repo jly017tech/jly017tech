@@ -5,14 +5,6 @@
 ![IMG_4787](https://github.com/user-attachments/assets/41b53276-1489-49d1-a41f-c03a07d782d9)
 
 
-<h1>Documentation</h1>
-
-<p>This section is where I made documentations with Notion</p>
-
-  - [Documentation#1: Installing Windows 2022 Server on VmWare](https://www.notion.so/IT-Documentation-23b0315195cf80909ac4d30eae5c2f82?source=copy_link)
-
-
-
 <h1>IT Homelab: Projects</h1>
 
 - <b>TestOutlab</b>
