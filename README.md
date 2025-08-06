@@ -2,6 +2,11 @@
 
 **`Programmer with Certified CompTIA A+ and AWS Cloud CLF-002`**
 
+### Credential Verification
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+
 Getting back to programming again
 
 
