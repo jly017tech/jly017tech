@@ -7,7 +7,11 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 
+<p>
 Getting back to programming again
+
+  
+</p>
 
 
 ![IMG_4787](https://github.com/user-attachments/assets/41b53276-1489-49d1-a41f-c03a07d782d9)
