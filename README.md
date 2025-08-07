@@ -17,10 +17,6 @@
 
   - [Deploying Cloud virtual machine](https://github.com/jly017tech/Azure_DeployVM)
   - [Troubleshooting IP Configuration](https://github.com/jly017tech/Troubleshoot-IP-Configuration)
-  - [CISCO Basic Commands](https://github.com/jly017tech/Cisco_BasicCommands/blob/main/README.md)
-  - [Captive Portal](https://github.com/jly017tech/Cisco_BasicCommands/blob/main/README.md)
-
-
 
 
 - <b>Windows Server 2022</b>
@@ -33,8 +29,6 @@
     
   - [Mapped a drive (C:\Share\Personal) ](https://github.com/jly017tech/MappedDrive/blob/main/README.md)
  
-  - [Redirecting the folder in the C: hard drive](https://github.com/jly017tech/ConfigureUsersFolderRedirection)
-
   - [Group policy: Security rule](https://github.com/jly017tech/GroupPolicy)
  
   - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)
@@ -42,13 +36,6 @@
   - [PBQ: Deploy & Inventory](https://github.com/jly017tech/PDQDeploy-Inventory/tree/main)
     
   - [NIC Teaming](https://github.com/jly017tech/NICTeaming/blob/main/README.md)
-
- 
-- <b>Ticketing System with Linode Cloud Server</b>
-  
-  - [Installing Peppermint with Linode Cloud Server](https://github.com/jly017tech/TicketingSystem_Peppermint)
-
-
 
 <hr>
 
