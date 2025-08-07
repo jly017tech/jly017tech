@@ -21,6 +21,8 @@
 
 - <b>Windows Server 2022</b>
 
+  - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
+
   - [Setting up on Windows Server 2022](https://github.com/jly017tech/WindowsServer)
    
   - [Adding a VM to the domain ](https://github.com/jly017tech/Domain-Join/blob/main/README.md)
