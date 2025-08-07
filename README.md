@@ -21,6 +21,9 @@
 
 - <b>Windows Server 2022</b>
 
+  - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md
+)
+
   - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
 
   - [Setting up on Windows Server 2022](https://github.com/jly017tech/WindowsServer)
