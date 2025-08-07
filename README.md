@@ -33,9 +33,7 @@
   - [Setting up NFTS Permission with Server Manager: File Storage](https://github.com/jly017tech/SetUpHomeFolderW-NTFSPermission/blob/main/README.md)
     
   - [Mapped a drive (C:\Share\Personal) ](https://github.com/jly017tech/MappedDrive/blob/main/README.md)
- 
-  - [Group policy: Security rule](https://github.com/jly017tech/GroupPolicy)
- 
+  
   - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)
     
   - [PBQ: Deploy & Inventory](https://github.com/jly017tech/PDQDeploy-Inventory/tree/main)
