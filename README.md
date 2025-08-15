@@ -44,7 +44,7 @@
 
 <h1>Coding Projects</h1>
 
-[<b>My Portfolio</strong></b>](https://github.com/jly017tech/MyPortfolio)
+[<b>My Portfolio(in progress)</strong></b>](https://github.com/jly017tech/MyPortfolio)
 
 - <b>Simple calculator</strong></b>
   - [Calculator](https://github.com/jly017tech/SimpleCalculator)
@@ -53,7 +53,7 @@
 - <b>NightByteDash</strong></b>
   - [NightByteDash](https://github.com/jly017tech/NightByteDash)
 
-- <b>Book-Recommender</strong></b>
+- <b>Book-Recommender(in progress)</strong></b>
   - [Book-Recommender](https://github.com/jly017tech/BookRecommender/)
 
 <!--
