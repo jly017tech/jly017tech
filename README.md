@@ -53,6 +53,9 @@
 - <b>NightByteDash</strong></b>
   - [NightByteDash](https://github.com/jly017tech/NightByteDash)
 
+- <b>Book-Recommender</strong></b>
+  - [Book-Recommender](https://github.com/jly017tech/NightByteDash)
+
 <!--
 ### 🧰 Languages and Tools 🧰
 
