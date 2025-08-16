@@ -21,24 +21,17 @@
 
 - <b>Windows Server 2022</b>
 
-  - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md
-)
+  - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
 
   - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
 
   - [Setting up on Windows Server 2022](https://github.com/jly017tech/WindowsServer)
-   
-  - [Adding a VM to the domain ](https://github.com/jly017tech/Domain-Join/blob/main/README.md)
  
   - [Setting up NFTS Permission with Server Manager: File Storage](https://github.com/jly017tech/SetUpHomeFolderW-NTFSPermission/blob/main/README.md)
     
   - [Mapped a drive (C:\Share\Personal) ](https://github.com/jly017tech/MappedDrive/blob/main/README.md)
   
-  - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)
-    
-  - [PBQ: Deploy & Inventory](https://github.com/jly017tech/PDQDeploy-Inventory/tree/main)
-    
-  - [NIC Teaming](https://github.com/jly017tech/NICTeaming/blob/main/README.md)
+  - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)    
 
 <hr>
 
