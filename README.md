@@ -33,6 +33,9 @@
   
   - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)    
 
+  - [08/27/25 - MDT Deployment](https://github.com/jly017tech/2025-MDTLab
+)    
+
 <hr>
 
 <h1>Coding Projects</h1>
