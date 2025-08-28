@@ -33,8 +33,12 @@
   
   - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)    
 
-  - [08/27/25 - MDT Deployment](https://github.com/jly017tech/2025-MDTLab
-)    
+  - [08/27/25 - MDT Deployment(In progress) ](https://github.com/jly017tech/2025-MDTLab)
+
+  - [Setting up DHCP Server](https://github.com/jly017tech/2025_DHCP_Server)
+
+
+
 
 <hr>
 
