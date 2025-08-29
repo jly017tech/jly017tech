@@ -27,9 +27,9 @@
 
   - [Setting up on Windows Server 2022](https://github.com/jly017tech/WindowsServer)
  
-  - [Setting up NFTS Permission with Server Manager: File Storage](https://github.com/jly017tech/SetUpHomeFolderW-NTFSPermission/blob/main/README.md)
+
     
-  - [Mapped a drive (C:\Share\Personal) ](https://github.com/jly017tech/MappedDrive/blob/main/README.md)
+  - [Setting up Shared Folder with NFTS-Permission](https://github.com/jly017tech/Setting-up-Shared-Folder-with-NFTS-Permission)
   
   - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)    
 
