@@ -21,6 +21,8 @@
 
 - <b>Windows Server 2022</b>
 
+  - [08/27/25 - MDT Deployment(In progress) ](https://github.com/jly017tech/2025-MDTLab)
+
   - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
 
   - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
@@ -32,8 +34,6 @@
   - [Setting up Shared Folder with NFTS-Permission](https://github.com/jly017tech/Setting-up-Shared-Folder-with-NFTS-Permission)
   
   - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)    
-
-  - [08/27/25 - MDT Deployment(In progress) ](https://github.com/jly017tech/2025-MDTLab)
 
   - [Setting up DHCP Server](https://github.com/jly017tech/2025_DHCP_Server)
 
