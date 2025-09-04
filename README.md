@@ -21,7 +21,7 @@
 
 - <b>Windows Server 2022</b>
 
-  - [08/27/25 - MDT Deployment(In progress) ](https://github.com/jly017tech/2025-MDTLab)
+  - [MDT Deployment Lab](https://github.com/jly017tech/2025-MDTLab)
 
   - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
 
