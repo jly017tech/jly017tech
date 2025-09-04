@@ -16,6 +16,10 @@
 - <b>TestOutlab</b>
 
   - [Deploying Cloud virtual machine](https://github.com/jly017tech/Azure_DeployVM)
+  - [Configuring Perimeter Firewall](https://github.com/jly017tech/ConfiguringPerimeterFirewall/blob/main/README.md
+)
+
+ 
 
 
 - <b>Windows Server 2022</b>
