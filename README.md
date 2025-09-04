@@ -16,7 +16,6 @@
 - <b>TestOutlab</b>
 
   - [Deploying Cloud virtual machine](https://github.com/jly017tech/Azure_DeployVM)
-  - [Troubleshooting IP Configuration](https://github.com/jly017tech/Troubleshoot-IP-Configuration)
 
 
 - <b>Windows Server 2022</b>
