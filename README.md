@@ -4,8 +4,6 @@
 
 **`Getting back to my passion in programmming`**
 
-### Credential Verification
-
 
 
 ![IMG_4787](https://github.com/user-attachments/assets/41b53276-1489-49d1-a41f-c03a07d782d9)
@@ -27,9 +25,6 @@
   - [Domain Controller - Windows Server 22](https://github.com/jly017tech/WindowsServer)
 
   - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
- 
-  - [File Services](https://github.com/jly017tech/2025_FileServices/blob/main/README.md)
- 
 
   - [Setting up DHCP Server](https://github.com/jly017tech/2025_DHCP_Server)
 
