@@ -27,6 +27,9 @@
   - [Domain Controller - Windows Server 22](https://github.com/jly017tech/WindowsServer)
 
   - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
+ 
+  - [File Services](https://github.com/jly017tech/2025_FileServices/blob/main/README.md)
+ 
 
   - [Setting up DHCP Server](https://github.com/jly017tech/2025_DHCP_Server)
 
@@ -35,6 +38,8 @@
   - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
     
   - [Setting up Shared Folder with NFTS-Permission](https://github.com/jly017tech/Setting-up-Shared-Folder-with-NFTS-Permission)
+ 
+
   
 
 
