@@ -1,6 +1,6 @@
   <h1 align="center"><strong>🖥️ »»—— Hello there, my name is Jimmy———«« 🖥️</strong></h1>
 
-**`Programmer with Certified CompTIA A+ and AWS Cloud CLF-002`**
+**`Programmer with Certified CompTIA A+, Network+, and AWS Cloud CLF-002`**
 
 **`Getting back to my passion in programmming`**
 
