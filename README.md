@@ -36,8 +36,6 @@
     
   - [Setting up Shared Folder with NFTS-Permission](https://github.com/jly017tech/Setting-up-Shared-Folder-with-NFTS-Permission)
   
-  - [Remote Desktop](https://github.com/jly017tech/RemoteDesktop/blob/main/README.md)    
-
 
 
 
