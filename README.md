@@ -9,14 +9,15 @@
 - <b>TestOutlab</b>
 
   - [Deploying Cloud virtual machine](https://github.com/jly017tech/Azure_DeployVM)
-  - [Configuring Perimeter Firewall](https://github.com/jly017tech/ConfiguringPerimeterFirewall/blob/main/README.md
-)
+  - [Configuring Perimeter Firewall](https://github.com/jly017tech/ConfiguringPerimeterFirewall/blob/main/README.md)
 
  
 - <b>Windows Server 2022</b>
 
   - [Domain Controller - Windows Server 22](https://github.com/jly017tech/WindowsServer)
 
+  - [Patch Management using with Action1](https://github.com/jly017tech/2025-PatchManagement)
+ 
   - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
 
   - [Setting up DHCP Server](https://github.com/jly017tech/2025_DHCP_Server)
@@ -26,3 +27,5 @@
   - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
     
   - [Setting up Shared Folder with NFTS-Permission](https://github.com/jly017tech/Setting-up-Shared-Folder-with-NFTS-Permission)
+
+
