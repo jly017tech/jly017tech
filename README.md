@@ -15,8 +15,6 @@
 - <b>Windows Server 2022</b>
 
   - [Domain Controller - Windows Server 22](https://github.com/jly017tech/WindowsServer)
-
-  - [Patch Management using with Action1](https://github.com/jly017tech/2025-PatchManagement)
  
   - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
 
