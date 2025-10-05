@@ -20,7 +20,10 @@
 
   - [Setting up DHCP Server](https://github.com/jly017tech/2025_DHCP_Server)
 
-  - [MDT Deployment Lab](https://github.com/jly017tech/2025-MDTLab)
+  - [MDT Deployment Lab](https://github.com/jly017tech/2025-MDTLab
+
+    - [MDT: Adding application](https://github.com/jly017tech/MDT-AddingApp)
+
 
   - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
     
