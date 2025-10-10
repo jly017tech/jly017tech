@@ -30,4 +30,9 @@
     
   - [Setting up Shared Folder with NFTS-Permission](https://github.com/jly017tech/Setting-up-Shared-Folder-with-NFTS-Permission)
 
+  -[Automating Windows Server with N8n](https://github.com/jly017tech/2025-N8n)
+
+
+ 
+
 
