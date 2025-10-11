@@ -4,6 +4,11 @@
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
 
 
+<h2>About Me</h2>
+<p>
+  Hi! I’m Jimmy Ly — an aspiring IT Support Specialist & homelab enthusiast building real-world skills in system administration, automation, and cybersecurity
+</p>
+
 <h2>IT Homelab</h2>
 
 <img width="1000" height="500" alt="Screenshot 2025-10-11 091916" src="https://github.com/user-attachments/assets/9ad9e411-f334-4800-a4b5-6dd3cfccf078" />
@@ -42,6 +47,10 @@
 
 - [SpiceWorks](https://github.com/jly017tech/SpiceWorks)
 
-
+<h1>Let's Connect</h1>
+<p>Linkedin: 
+  Youtube:
+  Portfolio:
+</p>
 
 
