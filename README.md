@@ -6,7 +6,7 @@
 
 <h2>IT Homelab</h2>
 
-<img width="1000" height="800" alt="Screenshot 2025-10-11 091916" src="https://github.com/user-attachments/assets/9ad9e411-f334-4800-a4b5-6dd3cfccf078" />
+<img width="1000" height="500" alt="Screenshot 2025-10-11 091916" src="https://github.com/user-attachments/assets/9ad9e411-f334-4800-a4b5-6dd3cfccf078" />
 
 - <b>TestOutlab</b>
 
