@@ -31,6 +31,7 @@
     
 
     - [MDT: Adding application](https://github.com/jly017tech/MDT-AddingApp)
+    - [MDT: Adding Windows Autopilot](https://github.com/jly017tech/Windows-Autopilot)
 
 
   - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
