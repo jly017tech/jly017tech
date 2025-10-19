@@ -43,9 +43,6 @@
   - [Automating Windows Server with N8n](https://github.com/jly017tech/2025-N8n)
 
 
-<h1>N8n - Automation tool:</h1>
-
-
  <h1>Ticketing System:</h1>
 
 - [SpiceWorks](https://github.com/jly017tech/SpiceWorks)
