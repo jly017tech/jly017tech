@@ -6,13 +6,12 @@
 
 <h2>About Me</h2>
 <p>
-  Hi! I’m Jimmy Ly — an aspiring IT Support Specialist & homelab enthusiast building real-world skills in system administration, automation, and cybersecurity
 
-  Linkedin: 
-  Youtube:
-  Portfolio:
+My name is Jimmy. I'm currently working at a community college as technician.
+Here is my projects I did help me learning every day in Windows Administration using VMWare.
 
 </p>
+<p> Linkedin:  Youtube:  Portfolio:</p>
 
 <h2>IT Homelab</h2>
 
