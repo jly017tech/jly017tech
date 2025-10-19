@@ -55,7 +55,4 @@ Here is my links down below.
 
 - [SpiceWorks](https://github.com/jly017tech/SpiceWorks)
 
-<h1>Let's Connect</h1>
-
-
 
