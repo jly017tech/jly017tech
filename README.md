@@ -7,6 +7,11 @@
 <h2>About Me</h2>
 <p>
   Hi! I’m Jimmy Ly — an aspiring IT Support Specialist & homelab enthusiast building real-world skills in system administration, automation, and cybersecurity
+
+  Linkedin: 
+  Youtube:
+  Portfolio:
+
 </p>
 
 <h2>IT Homelab</h2>
@@ -48,9 +53,6 @@
 - [SpiceWorks](https://github.com/jly017tech/SpiceWorks)
 
 <h1>Let's Connect</h1>
-<p>Linkedin: 
-  Youtube:
-  Portfolio:
-</p>
+
 
 
