@@ -3,6 +3,14 @@
 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
 
+<br>
+
+<h2>IT Homelab</h2>
+
+<img width="1000" height="500" alt="Screenshot 2025-10-11 091916" src="https://github.com/user-attachments/assets/9ad9e411-f334-4800-a4b5-6dd3cfccf078" />
+
+- <b>TestOutlab</b>
+
 
 <h2>About Me</h2>
 <p>
@@ -13,11 +21,7 @@ Here is my projects I did help me learning every day in Windows Administration u
 </p>
 <p> Linkedin:  Youtube:  Portfolio:</p>
 
-<h2>IT Homelab</h2>
 
-<img width="1000" height="500" alt="Screenshot 2025-10-11 091916" src="https://github.com/user-attachments/assets/9ad9e411-f334-4800-a4b5-6dd3cfccf078" />
-
-- <b>TestOutlab</b>
 
   - [Deploying Cloud virtual machine](https://github.com/jly017tech/Azure_DeployVM)
   - [Configuring Perimeter Firewall](https://github.com/jly017tech/ConfiguringPerimeterFirewall/blob/main/README.md)
