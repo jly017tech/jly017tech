@@ -19,7 +19,6 @@ Here is my projects I did help me learning every day in Windows Administration u
 
 Here is my links down below. 
 </p>
-<p> Linkedin:  Youtube:  Portfolio:</p>
 
 
 - <b>TestOutlab</b>
