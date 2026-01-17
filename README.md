@@ -11,19 +11,6 @@
 
 
 
-<h2>About Me</h2>
-<p>
-
-My name is Jimmy. I'm currently working at a community college as technician.
-Here is my projects I did help me learning every day in Windows Administration using VMWare.
-
-Here is my links down below. 
-</p>
-
-
-- <b>TestOutlab</b>
-  - [Deploying Cloud virtual machine](https://github.com/jly017tech/Azure_DeployVM)
-  - [Configuring Perimeter Firewall](https://github.com/jly017tech/ConfiguringPerimeterFirewall/blob/main/README.md)
 
  
 - <b>Windows Server 2022</b>
