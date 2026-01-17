@@ -9,6 +9,8 @@
 
 <h2>Programming Projects</h2>
 
+  - [Simple Financial Budget Website](https://github.com/jly017tech/WindowsServer)
+
 
 <h2>IT Homelab</h2>
 
