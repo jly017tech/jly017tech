@@ -1,4 +1,4 @@
-<h1 align="center"><strong>🖥️ »»—— Hello there, my name is Jimmy———«« 🖥️</strong></h1>
+<h1 align="center"><strong>🖥️ »»—— Welcome to my Github profile———«« 🖥️</strong></h1>
 
 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
