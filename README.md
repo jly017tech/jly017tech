@@ -4,7 +4,6 @@
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
 
 
-[**PC Technician / Programmer**](linkedin.com/jly017tech)
 
  <p align="left">
       <a href="https://www.youtube.com/@jlyOtech">
@@ -13,9 +12,10 @@
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCVTUb2nQHd3o1LX2JbirjGQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 
 
-
+[**PC Technician / Programmer**](linkedin.com/jly017tech)
 <h2 align="center">Introduction</h2>
-<p>I'm currently enrolling at Western Governor University to finish my Bachelor's degree in Information Technology. </p>
+
+<p> While working as PC Technician at a local community,I'm currently enrolling at Western Governor University to finish my Bachelor's degree in Information Technology. </p>
  
 
 ### <h2 align="center"> 🧰 Languages and Tools </h2>
@@ -32,10 +32,8 @@
   <img alt="C++" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 </p>
 
-#
 
-
-#### Credentials:
+#### <h2 align="center"> Credentials </h2>
 
 <a href="https://www.credly.com/earner/earned/badge/07a76be6-a4d8-42d1-9e28-b57cfc1a24c9"><img width="150" height="150" alt="Security+Pixel" src="https://github.com/user-attachments/assets/6d30724e-9667-48be-aeee-c9696c3c018e" />
   </a>
@@ -45,9 +43,7 @@
 
 
 
-
 <h2>IT Homelab</h2>
-
 
 
 - <b>Windows Server 2022</b>
