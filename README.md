@@ -1,9 +1,8 @@
-<h1 align="center"><strong>🖥️ »»——IT Homelab———«« 🖥️</strong></h1>
+ ### <h1 align="center"><strong> »»—— 🖥️ Hello, my name is Jimmy ———«« 🖥️</strong><h1/> 
 
 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
 
- ### <h1 align="center">Hello, my name is Jimmy 🖥️<h1/> 
 
 [**PC Technician / Programmer**](linkedin.com/jly017tech)
 
@@ -16,6 +15,8 @@
 * I have obtained three CompTIA Certificates: A+, Network+, and Security+
 
 <br>
+
+
 
 
 <h2>IT Homelab</h2>
