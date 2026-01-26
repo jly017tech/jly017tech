@@ -14,7 +14,7 @@
 
 
 
-<h2>Introduction</h2>
+<h2 align="center">Introduction</h2>
 <p>I'm currently enrolling at Western Governor University to finish my Bachelor's degree in Information Technology. </p>
  
 
