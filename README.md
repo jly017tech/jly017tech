@@ -8,12 +8,12 @@
 
 <h2>Introduction</h2>
 <p>I'm currently enrolling at Western Governor University to finish my Bachelor's degree in Information Technology. </p>
-
+https://www.youtube.com/channel/
  <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="Youtube IT Videos" title="IT Homelab Videos here" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@jlyOtech">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="Youtube IT Videos" title="IT Homelab Videos here" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCVTUb2nQHd3o1LX2JbirjGQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@jlyOtech">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCVTUb2nQHd3o1LX2JbirjGQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 
 
 
