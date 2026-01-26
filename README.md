@@ -5,7 +5,7 @@
 
  ### <h1 align="center">Hello, my name is Jimmy 🖥️<h1/> 
 
-I’m [**PC Technician / programmer**](linkedin.com/jly017tech)
+I’m [**PC Technician / Programmer**](linkedin.com/jly017tech)
 
 
 
