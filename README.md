@@ -5,10 +5,10 @@
 
  ### <h1 align="center">Hello, my name is Jimmy 🖥️<h1/> 
 
-I’m [**PC Technician / Programmer**](linkedin.com/jly017tech)
+[**PC Technician / Programmer**](linkedin.com/jly017tech)
 
 <h2>Introduction</h2>
-<p>I'm currently enrolling at Western Governor University to finish my Bachelor's degree in Information Technology</p>
+<p>I'm currently enrolling at Western Governor University to finish my Bachelor's degree in Information Technology. </p>
 
 
 #### Fun Facts:
