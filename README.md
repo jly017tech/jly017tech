@@ -3,13 +3,17 @@
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
 
+### Hello, my name is Jimmy<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+
+I’m [**PC Technician / programmer**](linkedin.com/jly017tech), a design engineer based in Germany.
+
+
+
+#### Fun Facts:
+
+* I have obtained three CompTIA Certificates: A+, Network+, and Security+
+
 <br>
-
-
-
-<h2>Programming Projects</h2>
-
-  - [Simple Financial Budget Website](https://github.com/jly017tech/WindowsServer)
 
 
 <h2>IT Homelab</h2>
@@ -45,4 +49,9 @@
 
 - [SpiceWorks](https://github.com/jly017tech/SpiceWorks)
 
+
+
+<h2>Programming Projects</h2>
+
+  - [Simple Financial Budget Website](https://github.com/jly017tech/WindowsServer)
 
