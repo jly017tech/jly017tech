@@ -1,9 +1,9 @@
 <h1 align="center"><strong>🖥️ »»——IT Homelab———«« 🖥️</strong></h1>
 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
 
-### Hello, my name is Jimmy<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+<h1 align="center"> ### Hello, my name is Jimmy 🖥️<h1/> 
 
 I’m [**PC Technician / programmer**](linkedin.com/jly017tech)
 
