@@ -40,7 +40,7 @@
     <img width="150" height="150" alt="Network+Pixel" src="https://github.com/user-attachments/assets/b0dd4b0f-3740-471d-9898-1b7133922bf2" />
   </a>
   <a href="https://www.credly.com/badges/2e10a288-9243-4ee5-a105-3b7c183cbc08/public_url">
-    <img width="150" height="150" alt="Security+Pixel" src="https://github.com/user-attachments/assets/6d30724e-9667-48be-aeee-c9696c3c018e" />
+    <img width="150" height="150" alt="A+Pixel" src="https://github.com/user-attachments/assets/6d30724e-9667-48be-aeee-c9696c3c018e" />
   </a>
 </div>
 
