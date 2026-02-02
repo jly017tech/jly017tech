@@ -47,9 +47,10 @@
 
 <br>
 
+<h2 align="center">Documentation</h2>
 
 
-<h2>IT Homelab - 02/01/26</h2>
+<h2 align="center">IT Homelab - 02/01/26</h2>
 
 
 - <b>Windows Server 2022</b>
