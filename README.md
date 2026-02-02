@@ -61,6 +61,8 @@
   - [Setting up DHCP Server](https://github.com/jly017tech/2025_DHCP_Server)
   - [Implementing Service Accounts]()
 
+  - [Windows Deplyoment Service Lab](https://github.com/jly017tech/2025-MDTLab)
+
 
   - [MDT Deployment Lab](https://github.com/jly017tech/2025-MDTLab)
     
