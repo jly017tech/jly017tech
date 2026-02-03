@@ -46,6 +46,8 @@
 
 
 <br>
+<hr>
+<br>
 
 <h2 align="center">Documentation</h2>
 
@@ -53,14 +55,20 @@
 <h2 align="center">IT Homelab - 02/01/26</h2>
 
 
-- <b>Windows Server 2022</b>
+<h2>FOG Imaging Server</h2>
+
+
+<h2 align="center"><b>Windows Server 2022</b> </h2>
 
   - [Domain Controller - Windows Server 22](https://github.com/jly017tech/WindowsServer)
  
   - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
 
   - [Setting up DHCP Server](https://github.com/jly017tech/2025_DHCP_Server)
-  - [Implementing Service Accounts]()
+
+  - [Setting up DNS server]()
+
+  - [Customizing ISO file]()
 
   - [Windows Deplyoment Service Lab](https://github.com/jly017tech/2025-MDTLab)
 
