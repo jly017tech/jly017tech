@@ -58,8 +58,9 @@ I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages W
 <h2 align="center">IT Homelab - 02/01/26</h2>
 
 
-<h2>FOG Imaging Server</h2>
+<h2 align="center">FOG Imaging Server</h2>
 
+<h2 align="center">Microsoft Intune </h2>
 
 <h2 align="center"><b>Windows Server 2022</b> </h2>
 
