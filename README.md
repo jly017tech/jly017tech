@@ -17,23 +17,10 @@
 
 <p>I have experience in programming for 9 years and 3 years in IT help desk from IT homelab. As someone who has passion helping people and problem solving technical issues,
 I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages Windows 11 operating system with SCCM, managing cable management, and keeping track of asset tags with excel spreadsheet.
-
-</p>
- 
-
-### <h2 align="center"> 🧰 Languages and Tools </h2>
-
-<p align="center">
-  <img alt="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-  <img alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-  <img alt="Linux" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-  <img alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="padding-right:10px;" />
-  <img alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="padding-right:10px;" />
-  <img alt="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="padding-right:10px;" />
 </p>
 
 
-#### <h2 align="center"> Credentials </h2>
+#### <h2 align="center"> Skills and Certifications </h2>
 
 <div align="center">
   <a href="https://www.credly.com/badges/2e10a288-9243-4ee5-a105-3b7c183cbc08/public_url">
@@ -48,6 +35,23 @@ I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages W
 </div>
 
 
+<h3>Skills:</h3> 
+
+### <h2 align="center"> 🧰 Languages and Tools </h2>
+
+<p align="center">
+  <img alt="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+  <img alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+  <img alt="Linux" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+  <img alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="padding-right:10px;" />
+  <img alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="padding-right:10px;" />
+  <img alt="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="padding-right:10px;" />
+</p>
+
+
+
+
+
 <br>
 <hr>
 <br>
@@ -55,7 +59,7 @@ I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages W
 <h2 align="center">Documentation</h2>
 
 
-<h2 align="center">IT Homelab - 02/01/26</h2>
+<h1 align="center">IT Homelab - 02/01/26</h1>
 
 
 <h2 align="center">FOG Imaging Server</h2>
