@@ -15,7 +15,10 @@
 [**PC Technician / Programmer**](linkedin.com/jly017tech)
 <h2 align="center">Introduction</h2>
 
-<p> While working as PC Technician at a local community,I'm currently enrolling at Western Governor University to finish my Bachelor's degree in Information Technology. </p>
+<p>I have experience in programming for 9 years and 3 years in IT help desk from IT homelab. As someone who has passion helping people and problem solving technical issues,
+I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages Windows 11 operating system with SCCM, managing cable management, and keeping track of asset tags with excel spreadsheet.
+
+</p>
  
 
 ### <h2 align="center"> 🧰 Languages and Tools </h2>
