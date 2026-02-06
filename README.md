@@ -12,7 +12,7 @@
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCVTUb2nQHd3o1LX2JbirjGQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 
 
-[**PC Technician / Programmer**](linkedin.com/jly017tech)
+[**Portfolio**]()
 <h2 align="center">Introduction</h2>
 
 <p>I have experience in programming for 9 years and 3 years in IT help desk from IT homelab. As someone who has passion helping people and problem solving technical issues,
@@ -20,7 +20,7 @@ I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages W
 </p>
 
 
-#### <h2 align="center"> Skills and Certifications </h2>
+#### <h2 align="center">Certifications </h2>
 
 <div align="center">
   <a href="https://www.credly.com/badges/2e10a288-9243-4ee5-a105-3b7c183cbc08/public_url">
@@ -35,7 +35,6 @@ I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages W
 </div>
 
 
-<h3>Skills:</h3> 
 
 ### <h2 align="center"> 🧰 Languages and Tools </h2>
 
