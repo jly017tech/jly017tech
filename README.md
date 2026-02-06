@@ -78,6 +78,7 @@ I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages W
 
   - [Windows Deplyoment Service Lab](https://github.com/jly017tech/2025-MDTLab)
 
+  -[PDQ Deploy and Inventory](https://github.com/jly017tech/PDQDeploy-Inventory)
 
   - [MDT Deployment Lab](https://github.com/jly017tech/2025-MDTLab)
     
