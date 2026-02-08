@@ -8,8 +8,7 @@
  <p align="left">
       <a href="https://www.youtube.com/@jlyOtech">
 <img width="241" height="49" alt="YoutubePixel" src="https://github.com/user-attachments/assets/3676e38c-08c9-4fe1-a636-ea815ac9a3d2" /></a> 
-      <a href="https://www.youtube.com/@jlyOtech">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCVTUb2nQHd3o1LX2JbirjGQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  
 
 
 
@@ -19,7 +18,6 @@
 <p>I have experience in programming for 9 years and 3 years in IT help desk from IT homelab. As someone who has passion helping people and problem solving technical issues,
 I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages Windows 11 operating system with SCCM, managing cable management, and keeping track of asset tags with excel spreadsheet.
 </p>
-/>
 
 #### <h2 align="center">Certifications </h2>
 
