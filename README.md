@@ -53,7 +53,6 @@ I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages W
 <hr>
 <br>
 
-<h2 align="center">Documentation</h2>
 
 
 <h1 align="center">IT Homelab - 02/01/26</h1>
@@ -91,6 +90,9 @@ I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages W
 
   - [Automating Windows Server with N8n](https://github.com/jly017tech/2025-N8n)
 
+
+
+<h1 align="center">Documentation</h21
 
  <h1>Ticketing System:</h1>
 
