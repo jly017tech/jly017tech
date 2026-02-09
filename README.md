@@ -56,10 +56,11 @@ I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages W
 
 
 <h1 align="center">IT Homelab - 02/01/26</h1>
-
-- [Enterprise 101](https://github.com/jly017tech/Cybersecurity-Homelab)
+ <hr>
 
 <h2 align="center"><b>Cybersecurity Homelab 2022</b> </h2>
+
+- [Enterprise 101](https://github.com/jly017tech/Cybersecurity-Homelab)
 
 
 <h2 align="center"><b>Windows Server 2022</b> </h2>
