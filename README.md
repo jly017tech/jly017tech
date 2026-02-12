@@ -15,8 +15,9 @@
 [**Portfolio**]()
 <h2 align="center">Introduction</h2>
 
-<p>I have experience in programming for 9 years and 3 years in IT help desk from IT homelab. As someone who has passion helping people and problem solving technical issues,
-I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages Windows 11 operating system with SCCM, managing cable management, and keeping track of asset tags with excel spreadsheet.
+<p>
+ PC Technician with 3 years experience in customer service and technical support.
+ I
 </p>
 
 #### <h2 align="center">Certifications </h2>
@@ -81,7 +82,6 @@ I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages W
 
   - [MDT Deployment Lab](https://github.com/jly017tech/2025-MDTLab)
     
-
     - [MDT: Adding application](https://github.com/jly017tech/MDT-AddingApp)
 
 
@@ -93,7 +93,7 @@ I'm familiar with ServiceNow, replaced memory ram chips in 5 laptops, reimages W
 
   - [Automating Windows Server with N8n](https://github.com/jly017tech/2025-N8n)
 
-
+<h1 align="center">Artifiical Intelligence Projects</h1>
 
 <h1 align="center">Documentation</h1>
 
