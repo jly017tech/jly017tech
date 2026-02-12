@@ -57,7 +57,6 @@
 
 
 <h1 align="center">IT Homelab - 02/01/26</h1>
- <hr>
 
 <h2 align="center"><b>Cybersecurity Homelab 2022</b> </h2>
 
