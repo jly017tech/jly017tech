@@ -69,10 +69,10 @@
 
 
   -[PDQ Deploy and Inventory](https://github.com/jly017tech/PDQDeploy-Inventory)
+ 
+ - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
 
-    
-
-  - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
+    - [Group Poliy Overview](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
     
   - [Setting up Shared Folder with NFTS-Permission](https://github.com/jly017tech/Setting-up-Shared-Folder-with-NFTS-Permission)
  
