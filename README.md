@@ -56,7 +56,7 @@
 
 
 
-<h1 align="center">IT Homelab - 02/01/26</h1>
+<h1 align="center">IT Homelab</h1>
 
 <h2 align="center"><b>Cybersecurity Homelab 2022</b> </h2>
 
@@ -67,7 +67,10 @@
 
   - [Domain Controller - Windows Server 22](https://github.com/jly017tech/WindowsServer)
  
-  - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
+       - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
+       - [Windows Deplyoment Service Lab](https://github.com/jly017tech/2025-MDTLab)
+       - [MDT Deployment Lab](https://github.com/jly017tech/2025-MDTLab)
+           - [MDT: Adding application](https://github.com/jly017tech/MDT-AddingApp)
 
   - [Setting up DHCP Server](https://github.com/jly017tech/2025_DHCP_Server)
 
@@ -75,13 +78,10 @@
 
   - [Customizing ISO file]()
 
-  - [Windows Deplyoment Service Lab](https://github.com/jly017tech/2025-MDTLab)
 
   -[PDQ Deploy and Inventory](https://github.com/jly017tech/PDQDeploy-Inventory)
 
-  - [MDT Deployment Lab](https://github.com/jly017tech/2025-MDTLab)
     
-    - [MDT: Adding application](https://github.com/jly017tech/MDT-AddingApp)
 
   - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
     
