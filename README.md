@@ -54,7 +54,7 @@
 
 <h2 align="center"><b>Windows Server 2022</b> </h2>
 
-  - [Domain Controller - Windows Server 22](https://github.com/jly017tech/WindowsServer)
+  - [Windows Server 2022/2025](https://github.com/jly017tech/Window_Server-2022-25/edit/main/README.md)
  
        - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
        - [Windows Deplyoment Service Lab](https://github.com/jly017tech/2025-MDTLab)
