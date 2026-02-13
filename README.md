@@ -83,7 +83,6 @@
     
     - [MDT: Adding application](https://github.com/jly017tech/MDT-AddingApp)
 
-
   - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
     
   - [Setting up Shared Folder with NFTS-Permission](https://github.com/jly017tech/Setting-up-Shared-Folder-with-NFTS-Permission)
