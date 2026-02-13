@@ -67,6 +67,7 @@
 
   - [Customizing ISO file]()
 
+  -[Joining Domain]()
 
   -[PDQ Deploy and Inventory](https://github.com/jly017tech/PDQDeploy-Inventory)
  
