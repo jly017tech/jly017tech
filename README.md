@@ -1,17 +1,8 @@
  ### <h1 align="center"><strong> »»—— 🖥️ Hello, my name is Jimmy ———«« 🖥️</strong><h1/> 
 
 
-
-
-
- <p align="left">
-      <a href="https://www.youtube.com/@jlyOtech">
-<img width="121" height="121" alt="YoutubePixel" src="https://github.com/user-attachments/assets/3676e38c-08c9-4fe1-a636-ea815ac9a3d2" /></a> 
-  
-
-
-
 [**Portfolio**]()
+
 <h2 align="center">Introduction</h2>
 
 <p>
