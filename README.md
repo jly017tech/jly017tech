@@ -61,13 +61,13 @@
        - [MDT Deployment Lab](https://github.com/jly017tech/2025-MDTLab)
            - [MDT: Adding application](https://github.com/jly017tech/MDT-AddingApp)
 
-  - [Setting up DHCP Server](https://github.com/jly017tech/2025_DHCP_Server)
+       - [Setting up DHCP Server](https://github.com/jly017tech/2025_DHCP_Server)
 
-  - [Setting up DNS server]()
+       - [Setting up DNS server]()
+       
+       - [Customizing ISO file]()
 
-  - [Customizing ISO file]()
-
-  -[Joining Domain]()
+       - [Joining Domain]()
 
   -[PDQ Deploy and Inventory](https://github.com/jly017tech/PDQDeploy-Inventory)
  
