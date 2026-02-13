@@ -6,8 +6,7 @@
 <h2 align="center">Introduction</h2>
 
 <p>
- PC Technician with 3 years experience in customer service and technical support.
- I
+ 
 </p>
 
 #### <h2 align="center">Certifications </h2>
@@ -96,7 +95,7 @@
 
   - [Simple Financial Budget Website](https://github.com/jly017tech/WindowsServer)
 
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
+<img width="300" height="100" alt="image" align="center" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
 
 <!-- 
 ### 📊 Stats
