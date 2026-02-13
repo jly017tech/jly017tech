@@ -80,7 +80,7 @@
 
   - [Automating Windows Server with N8n](https://github.com/jly017tech/2025-N8n)
 
-  - [Action1 - Patchmanagement](https://github.com/jly017tech/Group-Policy-Overview/blob/main/README.md)
+  - [Action1 - Patch Management](https://github.com/jly017tech/Group-Policy-Overview/blob/main/README.md)
 
 <h1 align="center">Artifiical Intelligence Projects</h1>
 
