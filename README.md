@@ -59,6 +59,8 @@
   - [Action1 - Patch Management](https://github.com/jly017tech/Group-Policy-Overview/blob/main/README.md)
 
 
+<h2>FOG Imaging Server with Ubuntu and Windows Server</h2>
+
 <h2><b>Cybersecurity Homelab 2022</b></h2>
 
 - [Enterprise 101](https://github.com/jly017tech/Cybersecurity-Homelab)
@@ -73,7 +75,6 @@
 - [SpiceWorks](https://github.com/jly017tech/SpiceWorks)
 
 
-<h2>FOG Imaging Server</h2>
 
 <h2>Programming Projects</h2>
 
