@@ -1,6 +1,6 @@
  <h1 align="center"> »»—— 🖥️  Jly0Tech's IT Homelab ———«« 🖥️<h1/> 
 
-<div align="center"> 
+<div align="left"> 
  <h2>Introduction:</h2>
     <img width="300" height="100" alt="image" align="center" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
 </div>
