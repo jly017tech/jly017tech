@@ -22,7 +22,6 @@
    
  <div style="display: inline-block; text-align: left align=center">
 
-<h1>IT Homelab</h1>
     
 <h2><b>Windows Server 2022</b></h2>
 
