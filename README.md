@@ -1,4 +1,4 @@
- ### <h1 align="center"><strong> »»—— 🖥️  Jly0Tech's IT Homelab ———«« 🖥️</strong><h1/> 
+ <h1 align="center"> »»—— 🖥️  Jly0Tech's IT Homelab ———«« 🖥️<h1/> 
 
 <div align="center"> 
  <h2>Introduction:</h2>
