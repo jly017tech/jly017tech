@@ -1,9 +1,9 @@
- ### <h1 align="center"><strong> »»—— 🖥️ Hello, my name is Jimmy ———«« 🖥️</strong><h1/> 
+ ### <h1 align="center"><strong> »»—— 🖥️  Jly0Tech's IT Homelab ———«« 🖥️</strong><h1/> 
 
 
 #### <h2 align="left">Certifications: </h2>
 
-<div align="center">
+<div align="left">
   <a href="https://www.credly.com/badges/2e10a288-9243-4ee5-a105-3b7c183cbc08/public_url">
     <img width="150" height="150" alt="A+Pixel" src="https://github.com/user-attachments/assets/251568db-15c6-4d9d-8b64-0dd2f51ffad0" />
   </a>
