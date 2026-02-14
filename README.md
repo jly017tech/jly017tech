@@ -20,9 +20,8 @@
 
 <h1 align="center">IT Homelab</h1>
 
-
-
-<h2 align="center"><b>Windows Server 2022</b> </h2>
+<div align="center">
+    <h2><b>Windows Server 2022</b></h2>
 
   - [Windows Server 2022/2025](https://github.com/jly017tech/Window_Server-2022-25/edit/main/README.md)
  
@@ -54,44 +53,30 @@
   - [Action1 - Patch Management](https://github.com/jly017tech/Group-Policy-Overview/blob/main/README.md)
 
 
-<h2 align="center"><b>Cybersecurity Homelab 2022</b> </h2>
+<h2><b>Cybersecurity Homelab 2022</b></h2>
 
 - [Enterprise 101](https://github.com/jly017tech/Cybersecurity-Homelab)
 
 
-<h2 align="center">Artifiical Intelligence Projects</h1>
+<h2>Artifiical Intelligence Projects</h2>
 
-<h2 align="center">Documentation</h2>
+<h2>Documentation</h2>
 
- <h1>Ticketing System:</h1>
+ <h2>Ticketing System:</h2>
 
 - [SpiceWorks](https://github.com/jly017tech/SpiceWorks)
 
 
-<h2 align="center">FOG Imaging Server</h2>
+<h2>FOG Imaging Server</h2>
 
 <h2>Programming Projects</h2>
 
   - [Simple Financial Budget Website](https://github.com/jly017tech/WindowsServer)
+ 
+</div>
+
+
 
 <div align="center"> 
     <img width="300" height="100" alt="image" align="center" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
 </div>
-
-<!-- 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-
-
-
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-<!--
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
