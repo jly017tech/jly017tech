@@ -18,7 +18,6 @@
 
 
 
-
 <h1 align="center">IT Homelab</h1>
 
 
@@ -60,9 +59,9 @@
 - [Enterprise 101](https://github.com/jly017tech/Cybersecurity-Homelab)
 
 
-<h1 align="center">Artifiical Intelligence Projects</h1>
+<h2 align="center">Artifiical Intelligence Projects</h1>
 
-<h1 align="center">Documentation</h1>
+<h2 align="center">Documentation</h2>
 
  <h1>Ticketing System:</h1>
 
@@ -75,7 +74,9 @@
 
   - [Simple Financial Budget Website](https://github.com/jly017tech/WindowsServer)
 
-<img width="300" height="100" alt="image" align="center" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
+<div align="center"> 
+    <img width="300" height="100" alt="image" align="center" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
+</div>
 
 <!-- 
 ### 📊 Stats
