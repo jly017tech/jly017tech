@@ -18,9 +18,12 @@
 
 
 
-<h1 align="center">IT Homelab</h1>
 
 <div align="center">
+   <div style="display: inline-block; text-align: left align=center">
+
+    <h1 align="center">IT Homelab</h1>
+    
     <h2><b>Windows Server 2022</b></h2>
 
   - [Windows Server 2022/2025](https://github.com/jly017tech/Window_Server-2022-25/edit/main/README.md)
@@ -73,8 +76,8 @@
 
   - [Simple Financial Budget Website](https://github.com/jly017tech/WindowsServer)
  
+   </div>
 </div>
-
 
 
 <div align="center"> 
