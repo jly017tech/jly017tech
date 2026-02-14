@@ -1,7 +1,7 @@
  ### <h1 align="center"><strong> »»—— 🖥️ Hello, my name is Jimmy ———«« 🖥️</strong><h1/> 
 
 
-#### <h2 align="center">Certifications </h2>
+#### <h2 align="left">Certifications </h2>
 
 <div align="center">
   <a href="https://www.credly.com/badges/2e10a288-9243-4ee5-a105-3b7c183cbc08/public_url">
