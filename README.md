@@ -1,14 +1,6 @@
  ### <h1 align="center"><strong> »»—— 🖥️ Hello, my name is Jimmy ———«« 🖥️</strong><h1/> 
 
 
-[**Portfolio**]()
-
-<h2 align="center">Introduction</h2>
-
-<p>
- 
-</p>
-
 #### <h2 align="center">Certifications </h2>
 
 <div align="center">
@@ -25,31 +17,10 @@
 
 
 
-### <h2 align="center"> 🧰 Languages and Tools </h2>
-
-<p align="center">
-  <img alt="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-  <img alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-  <img alt="Linux" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-  <img alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="padding-right:10px;" />
-  <img alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="padding-right:10px;" />
-  <img alt="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="padding-right:10px;" />
-</p>
-
-
-
-
-<br>
-<hr>
-<br>
-
 
 
 <h1 align="center">IT Homelab</h1>
 
-<h2 align="center"><b>Cybersecurity Homelab 2022</b> </h2>
-
-- [Enterprise 101](https://github.com/jly017tech/Cybersecurity-Homelab)
 
 
 <h2 align="center"><b>Windows Server 2022</b> </h2>
@@ -82,6 +53,12 @@
   - [Automating Windows Server with N8n](https://github.com/jly017tech/2025-N8n)
 
   - [Action1 - Patch Management](https://github.com/jly017tech/Group-Policy-Overview/blob/main/README.md)
+
+
+<h2 align="center"><b>Cybersecurity Homelab 2022</b> </h2>
+
+- [Enterprise 101](https://github.com/jly017tech/Cybersecurity-Homelab)
+
 
 <h1 align="center">Artifiical Intelligence Projects</h1>
 
