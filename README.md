@@ -5,7 +5,7 @@
     <img width="300" height="100" alt="image" align="center" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
 </div>
 
-#### <h2 align="left">Certifications: </h2>
+<h2 align="left">Certifications: </h2>
 
 <div align="left">
   <a href="https://www.credly.com/badges/2e10a288-9243-4ee5-a105-3b7c183cbc08/public_url">
